@@ -1,0 +1,16 @@
+<html>
+<head>
+   <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.css"/>
+     <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.ie.css" />
+   <script src="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.js"></script>
+</head>	
+<body>	
+   <div style="width:100%; height:100%" id="map"></div>
+   <script>
+      var map = L.map('map',{crs: L.CRS.EPSG4326}).setView([0,0],3);
+      var capa1 = L.tileLayer.wms("http://vmap0.tiles.osgeo.org/wms/vmap0", 
+	{layers: 'basic', format:'image/jpeg',transparent:true,attribution:"OsGEO"});
+      capa1.addTo(map);	
+   </script>
+</body>
+</html>

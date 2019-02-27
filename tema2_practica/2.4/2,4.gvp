@@ -1,0 +1,1314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml-tag xmlns="http://www.gvsig.gva.es">
+    <property key="className" value="com.iver.cit.gvsig.project.Project"/>
+    <property key="VERSION" value="1.12.0"/>
+    <property key="comments" value=""/>
+    <property key="creationDate" value="24-nov-2018"/>
+    <property key="isAbsolutePath" value="true"/>
+    <property key="numExtents" value="0"/>
+    <property key="numCameras" value="0"/>
+    <property key="data-source-count" value="1"/>
+    <property key="numDocuments" value="2"/>
+    <property key="modificationDate" value="24-nov-2018"/>
+    <property key="name" value="2,4.gvp"/>
+    <property key="owner" value=""/>
+    <property key="selectionColor" value="255,255,0,255"/>
+    <property key="projection" value="EPSG:23030"/>
+    <property key="followHeaderEncoding" value="true"/>
+    <xml-tag>
+        <property key="type" value="otherDriverFile"/>
+        <property key="gdbmsname" value="ORA_EPSG"/>
+        <property key="file" value="C:/Program Files (x86)/gvSIG desktop 1.12.0/gvSIG/extensiones/com.iver.cit.gvsig.oracle_spatial/dbf/ORA_EPSG.DBF"/>
+        <property key="driverName" value="gdbms dbf driver"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="className" value="ProjectView"/>
+        <property key="comment"/>
+        <property key="creationDate" value="24/11/18 18:16"/>
+        <property key="name" value="Sin título - 0"/>
+        <property key="owner"/>
+        <property key="numViews" value="2"/>
+        <property key="mapOverView" value="true"/>
+        <xml-tag>
+            <property key="className" value="com.iver.cit.gvsig.fmap.MapContext"/>
+            <xml-tag>
+                <property key="className" value="com.iver.cit.gvsig.fmap.ViewPort"/>
+                <property key="adjustedExtentX" value="863.8828455999001"/>
+                <property key="adjustedExtentY" value="1615.6673194516611"/>
+                <property key="adjustedExtentW" value="2719.2212226972324"/>
+                <property key="adjustedExtentH" value="1399.5655831346796"/>
+                <property key="backColor" value="255,255,255,255"/>
+                <property key="dist1pixel" value="2.2831411361694336"/>
+                <property key="dist3pixel" value="6.849423408508301"/>
+                <property key="distanceUnits" value="1"/>
+                <property key="extentX" value="863.8828455999001"/>
+                <property key="extentY" value="1615.6673194516611"/>
+                <property key="extentW" value="2719.2212226972324"/>
+                <property key="extentH" value="1399.5655831346794"/>
+                <property key="mapUnits" value="1"/>
+                <property key="offsetX" value="0.0"/>
+                <property key="offsetY" value="0.0"/>
+                <property key="proj" value="EPSG:23030"/>
+                <property key="scale" value="0.4379930511202141"/>
+                <property key="zoomFactor" value="1.0"/>
+                <xml-tag>
+                    <property key="className" value="com.iver.cit.gvsig.fmap.ExtentHistory"/>
+                    <property key="num" value="10"/>
+                    <property key="numrec" value="10"/>
+                    <property key="extent0X" value="1219.4099074041003"/>
+                    <property key="extent0Y" value="1798.6547996246036"/>
+                    <property key="extent0W" value="2008.167099088832"/>
+                    <property key="extent0H" value="1033.5906227887945"/>
+                    <property key="extent1X" value="968.389020017996"/>
+                    <property key="extent1Y" value="1669.4559717760044"/>
+                    <property key="extent1W" value="2510.2088738610405"/>
+                    <property key="extent1H" value="1291.9882784859929"/>
+                    <property key="extent2X" value="654.612910785366"/>
+                    <property key="extent2Y" value="1507.957436965255"/>
+                    <property key="extent2W" value="3137.7610923263005"/>
+                    <property key="extent2H" value="1614.9853481074915"/>
+                    <property key="extent3X" value="889.9449927098383"/>
+                    <property key="extent3Y" value="1629.081338073317"/>
+                    <property key="extent3W" value="2667.096928477356"/>
+                    <property key="extent3H" value="1372.7375458913675"/>
+                    <property key="extent4X" value="1089.97726234564"/>
+                    <property key="extent4Y" value="1732.0366540151695"/>
+                    <property key="extent4W" value="2267.0323892057527"/>
+                    <property key="extent4H" value="1166.8269140076627"/>
+                    <property key="extent5X" value="806.5982136949208"/>
+                    <property key="extent5Y" value="1586.1832897642116"/>
+                    <property key="extent5W" value="2833.790486507191"/>
+                    <property key="extent5H" value="1458.5336425095784"/>
+                    <property key="extent6X" value="452.374402881522"/>
+                    <property key="extent6Y" value="1403.8665844505144"/>
+                    <property key="extent6W" value="3542.2381081339886"/>
+                    <property key="extent6H" value="1823.1670531369728"/>
+                    <property key="extent7X" value="9.59463936477323"/>
+                    <property key="extent7Y" value="1175.9707028083926"/>
+                    <property key="extent7W" value="4427.797635167486"/>
+                    <property key="extent7H" value="2278.9588164212164"/>
+                    <property key="extent8X" value="341.67946200233473"/>
+                    <property key="extent8Y" value="1346.892614039984"/>
+                    <property key="extent8W" value="3763.627989892363"/>
+                    <property key="extent8H" value="1937.1149939580337"/>
+                    <property key="extent9X" value="623.9515612442619"/>
+                    <property key="extent9Y" value="1492.1762385868365"/>
+                    <property key="extent9W" value="3199.0837914085087"/>
+                    <property key="extent9H" value="1646.5477448643287"/>
+                </xml-tag>
+            </xml-tag>
+            <xml-tag>
+                <property key="className" value="com.iver.cit.gvsig.fmap.layers.FLayers"/>
+                <property key="active" value="false"/>
+                <property key="name"/>
+                <property key="minScale" value="-1.0"/>
+                <property key="maxScale" value="-1.0"/>
+                <property key="visible" value="true"/>
+                <property key="transparency" value="255"/>
+                <property key="isInTOC" value="true"/>
+                <property key="numLayers" value="20"/>
+                <property key="LayerNames" value="aster ,NewLayer_1 ,recorte2 ,NewLayer_4 ,NewLayer_5 ,NewLayer_6 ,NewLayer_7 ,NewLayer_8 ,NewLayer_9 ,NewLayer_10 ,NewLayer_11 ,NewLayer_13 ,NewLayer_14 ,NewLayer_15 ,NewLayer_16 ,NewLayer_17 ,Relieve sombreado ,Relieve sombreado-2 ,Relieve sombreado-3 ,Relieve sombreado-4"/>
+                <xml-tag>
+                    <property key="className" value="org.gvsig.fmap.raster.layers.FLyrRasterSE"/>
+                    <property key="active" value="false"/>
+                    <property key="name" value="aster"/>
+                    <property key="minScale" value="-1.0"/>
+                    <property key="maxScale" value="-1.0"/>
+                    <property key="visible" value="false"/>
+                    <property key="proj" value="EPSG:23030"/>
+                    <property key="transparency" value="255"/>
+                    <property key="isInTOC" value="true"/>
+                    <property key="absolutePath" value="C:\Users\Cristina\Documents\UNIVERSIDAD\MUSS\SIG en la web\tema2_practica\2.4\Aster (1)\Aster\aster.img"/>
+                    <property key="file" value="C:\Users\Cristina\Documents\UNIVERSIDAD\MUSS\SIG en la web\tema2_practica\2.4\Aster (1)\Aster\aster.img"/>
+                    <property key="driverName" value="gvSIG Raster Driver"/>
+                    <property key="raster.class" value="org.gvsig.fmap.raster.layers.StatusLayerRaster"/>
+                    <property key="raster.bandR" value="0"/>
+                    <property key="raster.bandG" value="1"/>
+                    <property key="raster.bandB" value="2"/>
+                    <property key="raster.file0" value="C:\Users\Cristina\Documents\UNIVERSIDAD\MUSS\SIG en la web\tema2_practica\2.4\Aster (1)\Aster\aster.img"/>
+                </xml-tag>
+                <xml-tag>
+                    <property key="className" value="org.gvsig.fmap.raster.layers.FLyrRasterSE"/>
+                    <property key="active" value="false"/>
+                    <property key="name" value="NewLayer_1"/>
+                    <property key="minScale" value="-1.0"/>
+                    <property key="maxScale" value="-1.0"/>
+                    <property key="visible" value="false"/>
+                    <property key="proj" value="EPSG:23030"/>
+                    <property key="transparency" value="255"/>
+                    <property key="isInTOC" value="true"/>
+                    <property key="absolutePath" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\NewLayer_1.tif"/>
+                    <property key="file" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\NewLayer_1.tif"/>
+                    <property key="driverName" value="gvSIG Raster Driver"/>
+                    <property key="raster.class" value="org.gvsig.fmap.raster.layers.StatusLayerRaster"/>
+                    <property key="raster.bandR" value="0"/>
+                    <property key="raster.bandG" value="1"/>
+                    <property key="raster.bandB" value="2"/>
+                    <property key="raster.file0" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\NewLayer_1.tif"/>
+                </xml-tag>
+                <xml-tag>
+                    <property key="className" value="org.gvsig.fmap.raster.layers.FLyrRasterSE"/>
+                    <property key="active" value="true"/>
+                    <property key="name" value="recorte2"/>
+                    <property key="minScale" value="-1.0"/>
+                    <property key="maxScale" value="-1.0"/>
+                    <property key="visible" value="true"/>
+                    <property key="proj" value="EPSG:23030"/>
+                    <property key="transparency" value="255"/>
+                    <property key="isInTOC" value="true"/>
+                    <property key="absolutePath" value="C:\Users\Cristina\Documents\UNIVERSIDAD\MUSS\SIG en la web\tema2_practica\2.4\Aster (1)\Aster\recorte2.tif"/>
+                    <property key="file" value="C:\Users\Cristina\Documents\UNIVERSIDAD\MUSS\SIG en la web\tema2_practica\2.4\Aster (1)\Aster\recorte2.tif"/>
+                    <property key="driverName" value="gvSIG Raster Driver"/>
+                    <property key="raster.class" value="org.gvsig.fmap.raster.layers.StatusLayerRaster"/>
+                    <property key="raster.bandR" value="0"/>
+                    <property key="raster.bandG" value="1"/>
+                    <property key="raster.bandB" value="2"/>
+                    <property key="raster.file0" value="C:\Users\Cristina\Documents\UNIVERSIDAD\MUSS\SIG en la web\tema2_practica\2.4\Aster (1)\Aster\recorte2.tif"/>
+                </xml-tag>
+                <xml-tag>
+                    <property key="className" value="org.gvsig.fmap.raster.layers.FLyrRasterSE"/>
+                    <property key="active" value="false"/>
+                    <property key="name" value="NewLayer_4"/>
+                    <property key="minScale" value="-1.0"/>
+                    <property key="maxScale" value="-1.0"/>
+                    <property key="visible" value="true"/>
+                    <property key="proj" value="EPSG:23030"/>
+                    <property key="transparency" value="255"/>
+                    <property key="isInTOC" value="true"/>
+                    <property key="absolutePath" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\NewLayer_4.tif"/>
+                    <property key="file" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\NewLayer_4.tif"/>
+                    <property key="driverName" value="gvSIG Raster Driver"/>
+                    <property key="raster.class" value="org.gvsig.fmap.raster.layers.StatusLayerRaster"/>
+                    <property key="raster.bandR" value="0"/>
+                    <property key="raster.bandG" value="1"/>
+                    <property key="raster.bandB" value="2"/>
+                    <property key="raster.file0" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\NewLayer_4.tif"/>
+                </xml-tag>
+                <xml-tag>
+                    <property key="className" value="org.gvsig.fmap.raster.layers.FLyrRasterSE"/>
+                    <property key="active" value="false"/>
+                    <property key="name" value="NewLayer_5"/>
+                    <property key="minScale" value="-1.0"/>
+                    <property key="maxScale" value="-1.0"/>
+                    <property key="visible" value="true"/>
+                    <property key="proj" value="EPSG:23030"/>
+                    <property key="transparency" value="255"/>
+                    <property key="isInTOC" value="true"/>
+                    <property key="absolutePath" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\NewLayer_5.tif"/>
+                    <property key="file" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\NewLayer_5.tif"/>
+                    <property key="driverName" value="gvSIG Raster Driver"/>
+                    <property key="raster.class" value="org.gvsig.fmap.raster.layers.StatusLayerRaster"/>
+                    <property key="raster.bandR" value="0"/>
+                    <property key="raster.bandG" value="1"/>
+                    <property key="raster.bandB" value="2"/>
+                    <property key="raster.file0" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\NewLayer_5.tif"/>
+                </xml-tag>
+                <xml-tag>
+                    <property key="className" value="org.gvsig.fmap.raster.layers.FLyrRasterSE"/>
+                    <property key="active" value="false"/>
+                    <property key="name" value="NewLayer_6"/>
+                    <property key="minScale" value="-1.0"/>
+                    <property key="maxScale" value="-1.0"/>
+                    <property key="visible" value="true"/>
+                    <property key="proj" value="EPSG:23030"/>
+                    <property key="transparency" value="255"/>
+                    <property key="isInTOC" value="true"/>
+                    <property key="absolutePath" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\NewLayer_6.tif"/>
+                    <property key="file" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\NewLayer_6.tif"/>
+                    <property key="driverName" value="gvSIG Raster Driver"/>
+                    <property key="raster.class" value="org.gvsig.fmap.raster.layers.StatusLayerRaster"/>
+                    <property key="raster.bandR" value="0"/>
+                    <property key="raster.bandG" value="1"/>
+                    <property key="raster.bandB" value="2"/>
+                    <property key="raster.file0" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\NewLayer_6.tif"/>
+                </xml-tag>
+                <xml-tag>
+                    <property key="className" value="org.gvsig.fmap.raster.layers.FLyrRasterSE"/>
+                    <property key="active" value="false"/>
+                    <property key="name" value="NewLayer_7"/>
+                    <property key="minScale" value="-1.0"/>
+                    <property key="maxScale" value="-1.0"/>
+                    <property key="visible" value="true"/>
+                    <property key="proj" value="EPSG:23030"/>
+                    <property key="transparency" value="255"/>
+                    <property key="isInTOC" value="true"/>
+                    <property key="absolutePath" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\NewLayer_7.tif"/>
+                    <property key="file" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\NewLayer_7.tif"/>
+                    <property key="driverName" value="gvSIG Raster Driver"/>
+                    <property key="raster.class" value="org.gvsig.fmap.raster.layers.StatusLayerRaster"/>
+                    <property key="raster.bandR" value="0"/>
+                    <property key="raster.bandG" value="1"/>
+                    <property key="raster.bandB" value="2"/>
+                    <property key="raster.file0" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\NewLayer_7.tif"/>
+                </xml-tag>
+                <xml-tag>
+                    <property key="className" value="org.gvsig.fmap.raster.layers.FLyrRasterSE"/>
+                    <property key="active" value="false"/>
+                    <property key="name" value="NewLayer_8"/>
+                    <property key="minScale" value="-1.0"/>
+                    <property key="maxScale" value="-1.0"/>
+                    <property key="visible" value="true"/>
+                    <property key="proj" value="EPSG:23030"/>
+                    <property key="transparency" value="255"/>
+                    <property key="isInTOC" value="true"/>
+                    <property key="absolutePath" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\NewLayer_8.tif"/>
+                    <property key="file" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\NewLayer_8.tif"/>
+                    <property key="driverName" value="gvSIG Raster Driver"/>
+                    <property key="raster.class" value="org.gvsig.fmap.raster.layers.StatusLayerRaster"/>
+                    <property key="raster.bandR" value="0"/>
+                    <property key="raster.bandG" value="1"/>
+                    <property key="raster.bandB" value="2"/>
+                    <property key="raster.file0" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\NewLayer_8.tif"/>
+                </xml-tag>
+                <xml-tag>
+                    <property key="className" value="org.gvsig.fmap.raster.layers.FLyrRasterSE"/>
+                    <property key="active" value="false"/>
+                    <property key="name" value="NewLayer_9"/>
+                    <property key="minScale" value="-1.0"/>
+                    <property key="maxScale" value="-1.0"/>
+                    <property key="visible" value="true"/>
+                    <property key="proj" value="EPSG:23030"/>
+                    <property key="transparency" value="255"/>
+                    <property key="isInTOC" value="true"/>
+                    <property key="absolutePath" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\NewLayer_9.tif"/>
+                    <property key="file" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\NewLayer_9.tif"/>
+                    <property key="driverName" value="gvSIG Raster Driver"/>
+                    <property key="raster.class" value="org.gvsig.fmap.raster.layers.StatusLayerRaster"/>
+                    <property key="raster.bandR" value="0"/>
+                    <property key="raster.bandG" value="1"/>
+                    <property key="raster.bandB" value="2"/>
+                    <property key="raster.file0" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\NewLayer_9.tif"/>
+                </xml-tag>
+                <xml-tag>
+                    <property key="className" value="org.gvsig.fmap.raster.layers.FLyrRasterSE"/>
+                    <property key="active" value="false"/>
+                    <property key="name" value="NewLayer_10"/>
+                    <property key="minScale" value="-1.0"/>
+                    <property key="maxScale" value="-1.0"/>
+                    <property key="visible" value="true"/>
+                    <property key="proj" value="EPSG:23030"/>
+                    <property key="transparency" value="255"/>
+                    <property key="isInTOC" value="true"/>
+                    <property key="absolutePath" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\NewLayer_10.tif"/>
+                    <property key="file" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\NewLayer_10.tif"/>
+                    <property key="driverName" value="gvSIG Raster Driver"/>
+                    <property key="raster.class" value="org.gvsig.fmap.raster.layers.StatusLayerRaster"/>
+                    <property key="raster.bandR" value="0"/>
+                    <property key="raster.bandG" value="1"/>
+                    <property key="raster.bandB" value="2"/>
+                    <property key="raster.file0" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\NewLayer_10.tif"/>
+                </xml-tag>
+                <xml-tag>
+                    <property key="className" value="org.gvsig.fmap.raster.layers.FLyrRasterSE"/>
+                    <property key="active" value="false"/>
+                    <property key="name" value="NewLayer_11"/>
+                    <property key="minScale" value="-1.0"/>
+                    <property key="maxScale" value="-1.0"/>
+                    <property key="visible" value="true"/>
+                    <property key="proj" value="EPSG:23030"/>
+                    <property key="transparency" value="255"/>
+                    <property key="isInTOC" value="true"/>
+                    <property key="absolutePath" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\NewLayer_11.tif"/>
+                    <property key="file" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\NewLayer_11.tif"/>
+                    <property key="driverName" value="gvSIG Raster Driver"/>
+                    <property key="raster.class" value="org.gvsig.fmap.raster.layers.StatusLayerRaster"/>
+                    <property key="raster.bandR" value="0"/>
+                    <property key="raster.bandG" value="1"/>
+                    <property key="raster.bandB" value="2"/>
+                    <property key="raster.file0" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\NewLayer_11.tif"/>
+                </xml-tag>
+                <xml-tag>
+                    <property key="className" value="org.gvsig.fmap.raster.layers.FLyrRasterSE"/>
+                    <property key="active" value="false"/>
+                    <property key="name" value="NewLayer_13"/>
+                    <property key="minScale" value="-1.0"/>
+                    <property key="maxScale" value="-1.0"/>
+                    <property key="visible" value="true"/>
+                    <property key="proj" value="EPSG:23030"/>
+                    <property key="transparency" value="255"/>
+                    <property key="isInTOC" value="true"/>
+                    <property key="absolutePath" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\NewLayer_13.tif"/>
+                    <property key="file" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\NewLayer_13.tif"/>
+                    <property key="driverName" value="gvSIG Raster Driver"/>
+                    <property key="raster.class" value="org.gvsig.fmap.raster.layers.StatusLayerRaster"/>
+                    <property key="raster.bandR" value="0"/>
+                    <property key="raster.bandG" value="1"/>
+                    <property key="raster.bandB" value="2"/>
+                    <property key="raster.file0" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\NewLayer_13.tif"/>
+                </xml-tag>
+                <xml-tag>
+                    <property key="className" value="org.gvsig.fmap.raster.layers.FLyrRasterSE"/>
+                    <property key="active" value="false"/>
+                    <property key="name" value="NewLayer_14"/>
+                    <property key="minScale" value="-1.0"/>
+                    <property key="maxScale" value="-1.0"/>
+                    <property key="visible" value="true"/>
+                    <property key="proj" value="EPSG:23030"/>
+                    <property key="transparency" value="255"/>
+                    <property key="isInTOC" value="true"/>
+                    <property key="absolutePath" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\NewLayer_14.tif"/>
+                    <property key="file" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\NewLayer_14.tif"/>
+                    <property key="driverName" value="gvSIG Raster Driver"/>
+                    <property key="raster.class" value="org.gvsig.fmap.raster.layers.StatusLayerRaster"/>
+                    <property key="raster.bandR" value="0"/>
+                    <property key="raster.bandG" value="1"/>
+                    <property key="raster.bandB" value="2"/>
+                    <property key="raster.file0" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\NewLayer_14.tif"/>
+                </xml-tag>
+                <xml-tag>
+                    <property key="className" value="org.gvsig.fmap.raster.layers.FLyrRasterSE"/>
+                    <property key="active" value="false"/>
+                    <property key="name" value="NewLayer_15"/>
+                    <property key="minScale" value="-1.0"/>
+                    <property key="maxScale" value="-1.0"/>
+                    <property key="visible" value="true"/>
+                    <property key="proj" value="EPSG:23030"/>
+                    <property key="transparency" value="255"/>
+                    <property key="isInTOC" value="true"/>
+                    <property key="absolutePath" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\NewLayer_15.tif"/>
+                    <property key="file" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\NewLayer_15.tif"/>
+                    <property key="driverName" value="gvSIG Raster Driver"/>
+                    <property key="raster.class" value="org.gvsig.fmap.raster.layers.StatusLayerRaster"/>
+                    <property key="raster.bandR" value="0"/>
+                    <property key="raster.bandG" value="1"/>
+                    <property key="raster.bandB" value="2"/>
+                    <property key="raster.file0" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\NewLayer_15.tif"/>
+                </xml-tag>
+                <xml-tag>
+                    <property key="className" value="org.gvsig.fmap.raster.layers.FLyrRasterSE"/>
+                    <property key="active" value="false"/>
+                    <property key="name" value="NewLayer_16"/>
+                    <property key="minScale" value="-1.0"/>
+                    <property key="maxScale" value="-1.0"/>
+                    <property key="visible" value="true"/>
+                    <property key="proj" value="EPSG:23030"/>
+                    <property key="transparency" value="255"/>
+                    <property key="isInTOC" value="true"/>
+                    <property key="absolutePath" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\NewLayer_16.tif"/>
+                    <property key="file" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\NewLayer_16.tif"/>
+                    <property key="driverName" value="gvSIG Raster Driver"/>
+                    <property key="raster.class" value="org.gvsig.fmap.raster.layers.StatusLayerRaster"/>
+                    <property key="raster.bandR" value="0"/>
+                    <property key="raster.bandG" value="1"/>
+                    <property key="raster.bandB" value="2"/>
+                    <property key="raster.file0" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\NewLayer_16.tif"/>
+                </xml-tag>
+                <xml-tag>
+                    <property key="className" value="org.gvsig.fmap.raster.layers.FLyrRasterSE"/>
+                    <property key="active" value="false"/>
+                    <property key="name" value="NewLayer_17"/>
+                    <property key="minScale" value="-1.0"/>
+                    <property key="maxScale" value="-1.0"/>
+                    <property key="visible" value="true"/>
+                    <property key="proj" value="EPSG:23030"/>
+                    <property key="transparency" value="255"/>
+                    <property key="isInTOC" value="true"/>
+                    <property key="absolutePath" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\NewLayer_17.tif"/>
+                    <property key="file" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\NewLayer_17.tif"/>
+                    <property key="driverName" value="gvSIG Raster Driver"/>
+                    <property key="raster.class" value="org.gvsig.fmap.raster.layers.StatusLayerRaster"/>
+                    <property key="raster.bandR" value="0"/>
+                    <property key="raster.bandG" value="1"/>
+                    <property key="raster.bandB" value="2"/>
+                    <property key="raster.file0" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\NewLayer_17.tif"/>
+                </xml-tag>
+                <xml-tag>
+                    <property key="className" value="org.gvsig.fmap.raster.layers.FLyrRasterSE"/>
+                    <property key="active" value="false"/>
+                    <property key="name" value="Relieve sombreado"/>
+                    <property key="minScale" value="-1.0"/>
+                    <property key="maxScale" value="-1.0"/>
+                    <property key="visible" value="true"/>
+                    <property key="proj" value="EPSG:23030"/>
+                    <property key="transparency" value="255"/>
+                    <property key="isInTOC" value="true"/>
+                    <property key="absolutePath" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\15430831405130.tif"/>
+                    <property key="file" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\15430831405130.tif"/>
+                    <property key="driverName" value="gvSIG Raster Driver"/>
+                    <property key="raster.class" value="org.gvsig.fmap.raster.layers.StatusLayerRaster"/>
+                    <property key="raster.bandR" value="0"/>
+                    <property key="raster.bandG" value="0"/>
+                    <property key="raster.bandB" value="0"/>
+                    <property key="raster.file0" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\15430831405130.tif"/>
+                    <property
+                        key="filter.linearstretchenhancement.active" value="true"/>
+                    <property
+                        key="filter.linearstretchenhancement.removeends" value="false"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.maxValue" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.minValue" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.stretchIn" value="0.0,0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.stretchOut" value="0,255"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.tailTrimMax" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.tailTrimMin" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.tailTrimValueMax" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.tailTrimValueMin" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.functionType" value="0"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.valueFunction" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.maxValue" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.minValue" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.stretchIn" value="0.0,0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.stretchOut" value="0,255"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.tailTrimMax" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.tailTrimMin" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.tailTrimValueMax" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.tailTrimValueMin" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.functionType" value="0"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.valueFunction" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.maxValue" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.minValue" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.stretchIn" value="0.0,0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.stretchOut" value="0,255"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.tailTrimMax" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.tailTrimMin" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.tailTrimValueMax" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.tailTrimValueMin" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.functionType" value="0"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.valueFunction" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.renderbands" value="0,0,0"/>
+                    <property key="filter.linearstretchenhancement.RGB" value="true"/>
+                </xml-tag>
+                <xml-tag>
+                    <property key="className" value="org.gvsig.fmap.raster.layers.FLyrRasterSE"/>
+                    <property key="active" value="false"/>
+                    <property key="name" value="Relieve sombreado-2"/>
+                    <property key="minScale" value="-1.0"/>
+                    <property key="maxScale" value="-1.0"/>
+                    <property key="visible" value="true"/>
+                    <property key="proj" value="EPSG:23030"/>
+                    <property key="transparency" value="255"/>
+                    <property key="isInTOC" value="true"/>
+                    <property key="absolutePath" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\15430832406871.tif"/>
+                    <property key="file" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\15430832406871.tif"/>
+                    <property key="driverName" value="gvSIG Raster Driver"/>
+                    <property key="raster.class" value="org.gvsig.fmap.raster.layers.StatusLayerRaster"/>
+                    <property key="raster.bandR" value="0"/>
+                    <property key="raster.bandG" value="0"/>
+                    <property key="raster.bandB" value="0"/>
+                    <property key="raster.file0" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\15430832406871.tif"/>
+                    <property
+                        key="filter.linearstretchenhancement.active" value="true"/>
+                    <property
+                        key="filter.linearstretchenhancement.removeends" value="false"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.maxValue" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.minValue" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.stretchIn" value="0.0,0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.stretchOut" value="0,255"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.tailTrimMax" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.tailTrimMin" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.tailTrimValueMax" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.tailTrimValueMin" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.functionType" value="0"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.valueFunction" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.maxValue" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.minValue" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.stretchIn" value="0.0,0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.stretchOut" value="0,255"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.tailTrimMax" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.tailTrimMin" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.tailTrimValueMax" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.tailTrimValueMin" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.functionType" value="0"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.valueFunction" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.maxValue" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.minValue" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.stretchIn" value="0.0,0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.stretchOut" value="0,255"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.tailTrimMax" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.tailTrimMin" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.tailTrimValueMax" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.tailTrimValueMin" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.functionType" value="0"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.valueFunction" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.renderbands" value="0,0,0"/>
+                    <property key="filter.linearstretchenhancement.RGB" value="true"/>
+                </xml-tag>
+                <xml-tag>
+                    <property key="className" value="org.gvsig.fmap.raster.layers.FLyrRasterSE"/>
+                    <property key="active" value="false"/>
+                    <property key="name" value="Relieve sombreado-3"/>
+                    <property key="minScale" value="-1.0"/>
+                    <property key="maxScale" value="-1.0"/>
+                    <property key="visible" value="true"/>
+                    <property key="proj" value="EPSG:23030"/>
+                    <property key="transparency" value="255"/>
+                    <property key="isInTOC" value="true"/>
+                    <property key="absolutePath" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\15430833683182.tif"/>
+                    <property key="file" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\15430833683182.tif"/>
+                    <property key="driverName" value="gvSIG Raster Driver"/>
+                    <property key="raster.class" value="org.gvsig.fmap.raster.layers.StatusLayerRaster"/>
+                    <property key="raster.bandR" value="0"/>
+                    <property key="raster.bandG" value="0"/>
+                    <property key="raster.bandB" value="0"/>
+                    <property key="raster.file0" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\15430833683182.tif"/>
+                    <property
+                        key="filter.linearstretchenhancement.active" value="true"/>
+                    <property
+                        key="filter.linearstretchenhancement.removeends" value="false"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.maxValue" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.minValue" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.stretchIn" value="0.0,0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.stretchOut" value="0,255"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.tailTrimMax" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.tailTrimMin" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.tailTrimValueMax" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.tailTrimValueMin" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.functionType" value="0"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.valueFunction" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.maxValue" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.minValue" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.stretchIn" value="0.0,0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.stretchOut" value="0,255"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.tailTrimMax" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.tailTrimMin" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.tailTrimValueMax" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.tailTrimValueMin" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.functionType" value="0"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.valueFunction" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.maxValue" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.minValue" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.stretchIn" value="0.0,0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.stretchOut" value="0,255"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.tailTrimMax" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.tailTrimMin" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.tailTrimValueMax" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.tailTrimValueMin" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.functionType" value="0"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.valueFunction" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.renderbands" value="0,0,0"/>
+                    <property key="filter.linearstretchenhancement.RGB" value="true"/>
+                </xml-tag>
+                <xml-tag>
+                    <property key="className" value="org.gvsig.fmap.raster.layers.FLyrRasterSE"/>
+                    <property key="active" value="false"/>
+                    <property key="name" value="Relieve sombreado-4"/>
+                    <property key="minScale" value="-1.0"/>
+                    <property key="maxScale" value="-1.0"/>
+                    <property key="visible" value="true"/>
+                    <property key="proj" value="EPSG:23030"/>
+                    <property key="transparency" value="255"/>
+                    <property key="isInTOC" value="true"/>
+                    <property key="absolutePath" value="C:\Users\Cristina\Desktop\relieve.tif"/>
+                    <property key="file" value="C:\Users\Cristina\Desktop\relieve.tif"/>
+                    <property key="driverName" value="gvSIG Raster Driver"/>
+                    <property key="raster.class" value="org.gvsig.fmap.raster.layers.StatusLayerRaster"/>
+                    <property key="raster.bandR" value="0"/>
+                    <property key="raster.bandG" value="0"/>
+                    <property key="raster.bandB" value="0"/>
+                    <property key="raster.file0" value="C:\Users\Cristina\Desktop\relieve.tif"/>
+                    <property
+                        key="filter.linearstretchenhancement.active" value="true"/>
+                    <property
+                        key="filter.linearstretchenhancement.removeends" value="false"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.maxValue" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.minValue" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.stretchIn" value="0.0,0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.stretchOut" value="0,255"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.tailTrimMax" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.tailTrimMin" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.tailTrimValueMax" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.tailTrimValueMin" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.functionType" value="0"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.valueFunction" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.maxValue" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.minValue" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.stretchIn" value="0.0,0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.stretchOut" value="0,255"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.tailTrimMax" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.tailTrimMin" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.tailTrimValueMax" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.tailTrimValueMin" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.functionType" value="0"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.valueFunction" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.maxValue" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.minValue" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.stretchIn" value="0.0,0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.stretchOut" value="0,255"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.tailTrimMax" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.tailTrimMin" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.tailTrimValueMax" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.tailTrimValueMin" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.functionType" value="0"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.valueFunction" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.renderbands" value="0,0,0"/>
+                    <property key="filter.linearstretchenhancement.RGB" value="true"/>
+                </xml-tag>
+            </xml-tag>
+        </xml-tag>
+        <xml-tag>
+            <property key="className" value="com.iver.cit.gvsig.fmap.MapContext"/>
+            <xml-tag>
+                <property key="className" value="com.iver.cit.gvsig.fmap.ViewPort"/>
+                <property key="dist1pixel" value="0.0"/>
+                <property key="dist3pixel" value="0.0"/>
+                <property key="distanceUnits" value="1"/>
+                <property key="mapUnits" value="1"/>
+                <property key="offsetX" value="0.0"/>
+                <property key="offsetY" value="0.0"/>
+                <property key="proj" value="EPSG:23030"/>
+                <property key="scale" value="0.0"/>
+                <property key="zoomFactor" value="1.0"/>
+                <xml-tag>
+                    <property key="className" value="com.iver.cit.gvsig.fmap.ExtentHistory"/>
+                    <property key="num" value="0"/>
+                    <property key="numrec" value="10"/>
+                </xml-tag>
+            </xml-tag>
+            <xml-tag>
+                <property key="className" value="com.iver.cit.gvsig.fmap.layers.FLayers"/>
+                <property key="active" value="false"/>
+                <property key="name"/>
+                <property key="minScale" value="-1.0"/>
+                <property key="maxScale" value="-1.0"/>
+                <property key="visible" value="true"/>
+                <property key="transparency" value="255"/>
+                <property key="isInTOC" value="true"/>
+                <property key="numLayers" value="0"/>
+                <property key="LayerNames" value=""/>
+            </xml-tag>
+        </xml-tag>
+    </xml-tag>
+    <xml-tag>
+        <property key="className" value="ProjectView"/>
+        <property key="comment"/>
+        <property key="creationDate" value="24/11/18 18:58"/>
+        <property key="name" value="Sin título - 1"/>
+        <property key="owner"/>
+        <property key="numViews" value="2"/>
+        <property key="mapOverView" value="true"/>
+        <xml-tag>
+            <property key="className" value="com.iver.cit.gvsig.fmap.MapContext"/>
+            <xml-tag>
+                <property key="className" value="com.iver.cit.gvsig.fmap.ViewPort"/>
+                <property key="adjustedExtentX" value="55942.715742251254"/>
+                <property key="adjustedExtentY" value="3987254.0"/>
+                <property key="adjustedExtentW" value="610266.0685154975"/>
+                <property key="adjustedExtentH" value="314100.0"/>
+                <property key="backColor" value="255,255,255,255"/>
+                <property key="dist1pixel" value="512.3980712890625"/>
+                <property key="dist3pixel" value="1537.1942138671875"/>
+                <property key="distanceUnits" value="1"/>
+                <property key="extentX" value="100475.75"/>
+                <property key="extentY" value="3987254.0"/>
+                <property key="extentW" value="521200.0"/>
+                <property key="extentH" value="314100.0"/>
+                <property key="mapUnits" value="1"/>
+                <property key="offsetX" value="0.0"/>
+                <property key="offsetY" value="0.0"/>
+                <property key="proj" value="EPSG:4326"/>
+                <property key="scale" value="0.0019516077682266795"/>
+                <property key="zoomFactor" value="1.0"/>
+                <xml-tag>
+                    <property key="className" value="com.iver.cit.gvsig.fmap.ExtentHistory"/>
+                    <property key="num" value="10"/>
+                    <property key="numrec" value="10"/>
+                    <property key="extent0X" value="100988.14804241434"/>
+                    <property key="extent0Y" value="3985204.4078303427"/>
+                    <property key="extent0W" value="521200.0"/>
+                    <property key="extent0H" value="314100.0"/>
+                    <property key="extent1X" value="-19828.144779771566"/>
+                    <property key="extent1Y" value="3945941.9078303427"/>
+                    <property key="extent1W" value="762832.5856443718"/>
+                    <property key="extent1H" value="392625.0"/>
+                    <property key="extent2X" value="-115182.21798531816"/>
+                    <property key="extent2Y" value="3896863.7828303427"/>
+                    <property key="extent2W" value="953540.732055465"/>
+                    <property key="extent2H" value="490781.25"/>
+                    <property key="extent3X" value="-234374.80949225125"/>
+                    <property key="extent3Y" value="3835516.1265803427"/>
+                    <property key="extent3W" value="1191925.9150693312"/>
+                    <property key="extent3H" value="613476.5625"/>
+                    <property key="extent4X" value="-383365.5488759177"/>
+                    <property key="extent4Y" value="3758831.5562678427"/>
+                    <property key="extent4W" value="1489907.393836664"/>
+                    <property key="extent4H" value="766845.703125"/>
+                    <property key="extent5X" value="-569603.9731055007"/>
+                    <property key="extent5Y" value="3662975.8433772177"/>
+                    <property key="extent5W" value="1862384.24229583"/>
+                    <property key="extent5H" value="958557.12890625"/>
+                    <property key="extent6X" value="-429925.1549333134"/>
+                    <property key="extent6Y" value="3734867.6280451864"/>
+                    <property key="extent6W" value="1583026.6059514554"/>
+                    <property key="extent6H" value="814773.5595703125"/>
+                    <property key="extent7X" value="-311198.1594869542"/>
+                    <property key="extent7Y" value="3795975.64501296"/>
+                    <property key="extent7W" value="1345572.615058737"/>
+                    <property key="extent7H" value="692557.5256347656"/>
+                    <property key="extent8X" value="100475.75"/>
+                    <property key="extent8Y" value="3987254.0"/>
+                    <property key="extent8W" value="521200.0"/>
+                    <property key="extent8H" value="314100.0"/>
+                    <property key="extent9X" value="32772.976753670504"/>
+                    <property key="extent9Y" value="4069331.5693311584"/>
+                    <property key="extent9W" value="119099.99999999999"/>
+                    <property key="extent9H" value="61300.0"/>
+                </xml-tag>
+            </xml-tag>
+            <xml-tag>
+                <property key="className" value="com.iver.cit.gvsig.fmap.layers.FLayers"/>
+                <property key="active" value="false"/>
+                <property key="name"/>
+                <property key="minScale" value="-1.0"/>
+                <property key="maxScale" value="-1.0"/>
+                <property key="visible" value="true"/>
+                <property key="transparency" value="255"/>
+                <property key="isInTOC" value="true"/>
+                <property key="numLayers" value="7"/>
+                <property key="LayerNames" value="Relieve ,Relieve sombreado ,Pendiente ,Orientación ,NewLayer_18 ,NewLayer_19 ,NewLayer_20"/>
+                <xml-tag>
+                    <property key="className" value="org.gvsig.fmap.raster.layers.FLyrRasterSE"/>
+                    <property key="active" value="false"/>
+                    <property key="name" value="Relieve"/>
+                    <property key="minScale" value="-1.0"/>
+                    <property key="maxScale" value="-1.0"/>
+                    <property key="visible" value="true"/>
+                    <property key="proj" value="EPSG:4326"/>
+                    <property key="transparency" value="255"/>
+                    <property key="isInTOC" value="true"/>
+                    <property key="absolutePath" value="C:\Users\Cristina\Documents\UNIVERSIDAD\MUSS\SIG en la web\tema2_practica\2.2\Archivos Vector\Archivos Vector\Andalucia\Relieve.jpg"/>
+                    <property key="file" value="C:\Users\Cristina\Documents\UNIVERSIDAD\MUSS\SIG en la web\tema2_practica\2.2\Archivos Vector\Archivos Vector\Andalucia\Relieve.jpg"/>
+                    <property key="driverName" value="gvSIG Raster Driver"/>
+                    <property key="raster.class" value="org.gvsig.fmap.raster.layers.StatusLayerRaster"/>
+                    <property key="raster.bandR" value="0"/>
+                    <property key="raster.bandG" value="1"/>
+                    <property key="raster.bandB" value="2"/>
+                    <property key="raster.file0" value="C:\Users\Cristina\Documents\UNIVERSIDAD\MUSS\SIG en la web\tema2_practica\2.2\Archivos Vector\Archivos Vector\Andalucia\Relieve.jpg"/>
+                </xml-tag>
+                <xml-tag>
+                    <property key="className" value="org.gvsig.fmap.raster.layers.FLyrRasterSE"/>
+                    <property key="active" value="false"/>
+                    <property key="name" value="Relieve sombreado"/>
+                    <property key="minScale" value="-1.0"/>
+                    <property key="maxScale" value="-1.0"/>
+                    <property key="visible" value="false"/>
+                    <property key="proj" value="EPSG:4326"/>
+                    <property key="transparency" value="255"/>
+                    <property key="isInTOC" value="true"/>
+                    <property key="absolutePath" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\15430837931163.tif"/>
+                    <property key="file" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\15430837931163.tif"/>
+                    <property key="driverName" value="gvSIG Raster Driver"/>
+                    <property key="raster.class" value="org.gvsig.fmap.raster.layers.StatusLayerRaster"/>
+                    <property key="raster.bandR" value="0"/>
+                    <property key="raster.bandG" value="0"/>
+                    <property key="raster.bandB" value="0"/>
+                    <property key="raster.file0" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\15430837931163.tif"/>
+                    <property
+                        key="filter.linearstretchenhancement.active" value="true"/>
+                    <property
+                        key="filter.linearstretchenhancement.removeends" value="false"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.maxValue" value="1.767351746559143"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.minValue" value="0.007124630268663168"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.offset" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.scale" value="144.8676694274484"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.stretchIn" value="0.007124630268663168,1.767351746559143"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.stretchOut" value="0,255"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.tailTrimMax" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.tailTrimMin" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.tailTrimValueMax" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.tailTrimValueMin" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.functionType" value="0"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.valueFunction" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.maxValue" value="1.767351746559143"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.minValue" value="0.007124630268663168"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.offset" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.scale" value="144.8676694274484"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.stretchIn" value="0.007124630268663168,1.767351746559143"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.stretchOut" value="0,255"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.tailTrimMax" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.tailTrimMin" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.tailTrimValueMax" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.tailTrimValueMin" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.functionType" value="0"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.valueFunction" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.maxValue" value="1.767351746559143"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.minValue" value="0.007124630268663168"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.offset" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.scale" value="144.8676694274484"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.stretchIn" value="0.007124630268663168,1.767351746559143"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.stretchOut" value="0,255"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.tailTrimMax" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.tailTrimMin" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.tailTrimValueMax" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.tailTrimValueMin" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.functionType" value="0"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.valueFunction" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.renderbands" value="0,0,0"/>
+                    <property key="filter.linearstretchenhancement.RGB" value="false"/>
+                </xml-tag>
+                <xml-tag>
+                    <property key="className" value="org.gvsig.fmap.raster.layers.FLyrRasterSE"/>
+                    <property key="active" value="false"/>
+                    <property key="name" value="Pendiente"/>
+                    <property key="minScale" value="-1.0"/>
+                    <property key="maxScale" value="-1.0"/>
+                    <property key="visible" value="false"/>
+                    <property key="proj" value="EPSG:4326"/>
+                    <property key="transparency" value="255"/>
+                    <property key="isInTOC" value="true"/>
+                    <property key="absolutePath" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\15430840248785.tif"/>
+                    <property key="file" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\15430840248785.tif"/>
+                    <property key="driverName" value="gvSIG Raster Driver"/>
+                    <property key="raster.class" value="org.gvsig.fmap.raster.layers.StatusLayerRaster"/>
+                    <property key="raster.bandR" value="0"/>
+                    <property key="raster.bandG" value="0"/>
+                    <property key="raster.bandB" value="0"/>
+                    <property key="raster.file0" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\15430840248785.tif"/>
+                    <property
+                        key="filter.linearstretchenhancement.active" value="true"/>
+                    <property
+                        key="filter.linearstretchenhancement.removeends" value="false"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.maxValue" value="1.197069525718689"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.minValue" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.offset" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.scale" value="213.02020853542714"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.stretchIn" value="0.0,1.197069525718689"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.stretchOut" value="0,255"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.tailTrimMax" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.tailTrimMin" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.tailTrimValueMax" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.tailTrimValueMin" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.functionType" value="0"/>
+                    <property
+                        key="filter.linearstretchenhancement.red.valueFunction" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.maxValue" value="1.197069525718689"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.minValue" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.offset" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.scale" value="213.02020853542714"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.stretchIn" value="0.0,1.197069525718689"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.stretchOut" value="0,255"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.tailTrimMax" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.tailTrimMin" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.tailTrimValueMax" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.tailTrimValueMin" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.functionType" value="0"/>
+                    <property
+                        key="filter.linearstretchenhancement.green.valueFunction" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.maxValue" value="1.197069525718689"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.minValue" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.offset" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.scale" value="213.02020853542714"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.stretchIn" value="0.0,1.197069525718689"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.stretchOut" value="0,255"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.tailTrimMax" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.tailTrimMin" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.tailTrimValueMax" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.tailTrimValueMin" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.functionType" value="0"/>
+                    <property
+                        key="filter.linearstretchenhancement.blue.valueFunction" value="0.0"/>
+                    <property
+                        key="filter.linearstretchenhancement.renderbands" value="0,0,0"/>
+                    <property key="filter.linearstretchenhancement.RGB" value="false"/>
+                </xml-tag>
+                <xml-tag>
+                    <property key="className" value="org.gvsig.fmap.raster.layers.FLyrRasterSE"/>
+                    <property key="active" value="false"/>
+                    <property key="name" value="Orientación"/>
+                    <property key="minScale" value="-1.0"/>
+                    <property key="maxScale" value="-1.0"/>
+                    <property key="visible" value="false"/>
+                    <property key="proj" value="EPSG:4326"/>
+                    <property key="transparency" value="255"/>
+                    <property key="isInTOC" value="true"/>
+                    <property key="absolutePath" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\15430849127086.tif"/>
+                    <property key="file" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\15430849127086.tif"/>
+                    <property key="driverName" value="gvSIG Raster Driver"/>
+                    <property key="raster.class" value="org.gvsig.fmap.raster.layers.StatusLayerRaster"/>
+                    <property key="raster.bandR" value="0"/>
+                    <property key="raster.bandG" value="0"/>
+                    <property key="raster.bandB" value="0"/>
+                    <property key="raster.file0" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\15430849127086.tif"/>
+                    <property key="filter.colortable.active" value="true"/>
+                    <property key="filter.colortable.name" value="Default"/>
+                    <property key="filter.colortable.interpolated" value="true"/>
+                    <property key="filter.colortable.color0.value" value="0.0"/>
+                    <property key="filter.colortable.color0.name" value="Oeste"/>
+                    <property key="filter.colortable.color0.rgb" value="204,255,204"/>
+                    <property
+                        key="filter.colortable.color0.interpolated" value="50.0"/>
+                    <property key="filter.colortable.color1.value" value="45.0"/>
+                    <property key="filter.colortable.color1.name" value="Este"/>
+                    <property key="filter.colortable.color1.rgb" value="255,255,153"/>
+                    <property
+                        key="filter.colortable.color1.interpolated" value="50.0"/>
+                    <property key="filter.colortable.color2.value" value="135.0"/>
+                    <property key="filter.colortable.color2.name" value="Sur"/>
+                    <property key="filter.colortable.color2.rgb" value="255,153,255"/>
+                    <property
+                        key="filter.colortable.color2.interpolated" value="50.0"/>
+                    <property key="filter.colortable.color3.value" value="315.0"/>
+                    <property key="filter.colortable.color3.name" value="Norte"/>
+                    <property key="filter.colortable.color3.rgb" value="153,153,255"/>
+                    <property
+                        key="filter.colortable.color3.interpolated" value="50.0"/>
+                    <property key="filter.colortable.alpha0.value" value="0.0"/>
+                    <property key="filter.colortable.alpha0.a" value="255"/>
+                    <property
+                        key="filter.colortable.alpha0.interpolated" value="50.0"/>
+                    <property key="filter.colortable.alpha1.value" value="45.0"/>
+                    <property key="filter.colortable.alpha1.a" value="255"/>
+                    <property
+                        key="filter.colortable.alpha1.interpolated" value="50.0"/>
+                    <property key="filter.colortable.alpha2.value" value="135.0"/>
+                    <property key="filter.colortable.alpha2.a" value="255"/>
+                    <property
+                        key="filter.colortable.alpha2.interpolated" value="50.0"/>
+                    <property key="filter.colortable.alpha3.value" value="315.0"/>
+                    <property key="filter.colortable.alpha3.a" value="255"/>
+                    <property
+                        key="filter.colortable.alpha3.interpolated" value="50.0"/>
+                </xml-tag>
+                <xml-tag>
+                    <property key="className" value="org.gvsig.fmap.raster.layers.FLyrRasterSE"/>
+                    <property key="active" value="false"/>
+                    <property key="name" value="NewLayer_18"/>
+                    <property key="minScale" value="-1.0"/>
+                    <property key="maxScale" value="-1.0"/>
+                    <property key="visible" value="false"/>
+                    <property key="proj" value="EPSG:4326"/>
+                    <property key="transparency" value="255"/>
+                    <property key="isInTOC" value="true"/>
+                    <property key="absolutePath" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\NewLayer_18.tif"/>
+                    <property key="file" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\NewLayer_18.tif"/>
+                    <property key="driverName" value="gvSIG Raster Driver"/>
+                    <property key="raster.class" value="org.gvsig.fmap.raster.layers.StatusLayerRaster"/>
+                    <property key="raster.bandR" value="0"/>
+                    <property key="raster.bandG" value="1"/>
+                    <property key="raster.bandB" value="2"/>
+                    <property key="raster.file0" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\NewLayer_18.tif"/>
+                </xml-tag>
+                <xml-tag>
+                    <property key="className" value="org.gvsig.fmap.raster.layers.FLyrRasterSE"/>
+                    <property key="active" value="true"/>
+                    <property key="name" value="NewLayer_19"/>
+                    <property key="minScale" value="-1.0"/>
+                    <property key="maxScale" value="-1.0"/>
+                    <property key="visible" value="false"/>
+                    <property key="proj" value="EPSG:4326"/>
+                    <property key="transparency" value="255"/>
+                    <property key="isInTOC" value="true"/>
+                    <property key="absolutePath" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\NewLayer_19.tif"/>
+                    <property key="file" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\NewLayer_19.tif"/>
+                    <property key="driverName" value="gvSIG Raster Driver"/>
+                    <property key="raster.class" value="org.gvsig.fmap.raster.layers.StatusLayerRaster"/>
+                    <property key="raster.bandR" value="0"/>
+                    <property key="raster.bandG" value="1"/>
+                    <property key="raster.bandB" value="2"/>
+                    <property key="raster.file0" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\NewLayer_19.tif"/>
+                </xml-tag>
+                <xml-tag>
+                    <property key="className" value="org.gvsig.fmap.raster.layers.FLyrRasterSE"/>
+                    <property key="active" value="false"/>
+                    <property key="name" value="NewLayer_20"/>
+                    <property key="minScale" value="-1.0"/>
+                    <property key="maxScale" value="-1.0"/>
+                    <property key="visible" value="true"/>
+                    <property key="proj" value="EPSG:4326"/>
+                    <property key="transparency" value="255"/>
+                    <property key="isInTOC" value="true"/>
+                    <property key="absolutePath" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\NewLayer_20.tif"/>
+                    <property key="file" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\NewLayer_20.tif"/>
+                    <property key="driverName" value="gvSIG Raster Driver"/>
+                    <property key="raster.class" value="org.gvsig.fmap.raster.layers.StatusLayerRaster"/>
+                    <property key="raster.bandR" value="0"/>
+                    <property key="raster.bandG" value="1"/>
+                    <property key="raster.bandB" value="2"/>
+                    <property key="raster.file0" value="C:\Users\Cristina\AppData\Local\Temp\tmp-andami\NewLayer_20.tif"/>
+                </xml-tag>
+            </xml-tag>
+        </xml-tag>
+        <xml-tag>
+            <property key="className" value="com.iver.cit.gvsig.fmap.MapContext"/>
+            <xml-tag>
+                <property key="className" value="com.iver.cit.gvsig.fmap.ViewPort"/>
+                <property key="dist1pixel" value="0.0"/>
+                <property key="dist3pixel" value="0.0"/>
+                <property key="distanceUnits" value="1"/>
+                <property key="mapUnits" value="1"/>
+                <property key="offsetX" value="0.0"/>
+                <property key="offsetY" value="0.0"/>
+                <property key="proj" value="EPSG:4326"/>
+                <property key="scale" value="0.0"/>
+                <property key="zoomFactor" value="1.0"/>
+                <xml-tag>
+                    <property key="className" value="com.iver.cit.gvsig.fmap.ExtentHistory"/>
+                    <property key="num" value="0"/>
+                    <property key="numrec" value="10"/>
+                </xml-tag>
+            </xml-tag>
+            <xml-tag>
+                <property key="className" value="com.iver.cit.gvsig.fmap.layers.FLayers"/>
+                <property key="active" value="false"/>
+                <property key="name"/>
+                <property key="minScale" value="-1.0"/>
+                <property key="maxScale" value="-1.0"/>
+                <property key="visible" value="true"/>
+                <property key="transparency" value="255"/>
+                <property key="isInTOC" value="true"/>
+                <property key="numLayers" value="0"/>
+                <property key="LayerNames" value=""/>
+            </xml-tag>
+        </xml-tag>
+    </xml-tag>
+    <xml-tag>
+        <property key="name" value="AndamiPersistence"/>
+        <property key="className" value="com.iver.cit.gvsig.project.Project"/>
+        <xml-tag>
+            <property key="name" value="ViewInfoProperties"/>
+            <property key="X" value="-1"/>
+            <property key="Y" value="-1"/>
+            <property key="Width" value="430"/>
+            <property key="Height" value="594"/>
+            <property key="isVisible" value="true"/>
+            <property key="isResizable" value="false"/>
+            <property key="isMaximizable" value="true"/>
+            <property key="isModal" value="false"/>
+            <property key="isModeless" value="false"/>
+            <property key="isClosed" value="false"/>
+            <property key="isNotClosable" value="false"/>
+            <property key="AdditionalInfo"/>
+            <property key="className" value="com.iver.cit.gvsig.project.document.gui.ProjectWindow"/>
+            <property key="zPosition" value="4"/>
+        </xml-tag>
+        <xml-tag>
+            <property key="name" value="ViewInfoProperties"/>
+            <property key="X" value="0"/>
+            <property key="Y" value="0"/>
+            <property key="Width" value="1366"/>
+            <property key="Height" value="641"/>
+            <property key="isVisible" value="true"/>
+            <property key="isResizable" value="true"/>
+            <property key="isMaximizable" value="true"/>
+            <property key="isModal" value="false"/>
+            <property key="isModeless" value="false"/>
+            <property key="isClosed" value="false"/>
+            <property key="isNotClosable" value="false"/>
+            <property key="AdditionalInfo"/>
+            <property key="isMaximized" value="true"/>
+            <property key="normalX" value="-1"/>
+            <property key="normalY" value="-1"/>
+            <property key="normalWidth" value="500"/>
+            <property key="normalHeight" value="300"/>
+            <property key="documentType" value="ProjectView"/>
+            <property key="documentName" value="Sin título - 1"/>
+            <property key="zPosition" value="3"/>
+            <xml-tag>
+                <property key="name" value="windowData"/>
+                <property key="GraphicLocator.isPalette" value="false"/>
+                <property key="GraphicLocator.Height" value="298"/>
+                <property key="MainDivider.Y" value="0"/>
+                <property key="MainDivider.X" value="0"/>
+                <property key="MapControl.Height" value="613"/>
+                <property key="TOCDivider.Location" value="309"/>
+                <property key="TOC.Height" value="308"/>
+                <property key="TOCDivider.Y" value="1"/>
+                <property key="TOCDivider.X" value="1"/>
+                <property key="MainDivider.Location" value="153"/>
+                <property key="MainDivider.Width" value="1350"/>
+                <property key="MainWindow.X" value="0"/>
+                <property key="TOCDivider.Height" value="613"/>
+                <property key="TOC.Width" value="150"/>
+                <property key="MainWindow.Width" value="1350"/>
+                <property key="TOCDivider.Width" value="152"/>
+                <property key="MainWindow.Y" value="0"/>
+                <property key="MapControl.Width" value="1191"/>
+                <property key="GraphicLocator.Width" value="150"/>
+                <property key="MainWindow.Height" value="615"/>
+                <property key="MainDivider.Height" value="615"/>
+            </xml-tag>
+        </xml-tag>
+    </xml-tag>
+</xml-tag>

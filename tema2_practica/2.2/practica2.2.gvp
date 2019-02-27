@@ -1,0 +1,1307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml-tag xmlns="http://www.gvsig.gva.es">
+    <property key="className" value="com.iver.cit.gvsig.project.Project"/>
+    <property key="VERSION" value="1.12.0"/>
+    <property key="comments" value=""/>
+    <property key="creationDate" value="03-nov-2018"/>
+    <property key="isAbsolutePath" value="true"/>
+    <property key="numExtents" value="0"/>
+    <property key="numCameras" value="0"/>
+    <property key="data-source-count" value="45"/>
+    <property key="numDocuments" value="3"/>
+    <property key="modificationDate" value="03-nov-2018"/>
+    <property key="name" value="practica2.2.gvp"/>
+    <property key="owner" value=""/>
+    <property key="selectionColor" value="255,255,0,255"/>
+    <property key="projection" value="EPSG:23030"/>
+    <property key="followHeaderEncoding" value="true"/>
+    <xml-tag>
+        <property key="type" value="otherDriverFile"/>
+        <property key="gdbmsname" value="gdbms6462ef1f_166da38dbaa__7fff"/>
+        <property key="file" value="C:\Users\Cristina\Documents\UNIVERSIDAD\MUSS\SIG en la web\tema2_practica\2.2\Archivos Vector\Archivos Vector\Andalucia\Andalucia.dbf"/>
+        <property key="driverName" value="gdbms dbf driver"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="sameDriverFile"/>
+        <property key="gdbmsname" value="gdbms6462ef1f_166da38dbaa__7fe9"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="otherDriverFile"/>
+        <property key="gdbmsname" value="gdbms6462ef1f_166da38dbaa__7ffb"/>
+        <property key="file" value="C:\Users\Cristina\Documents\UNIVERSIDAD\MUSS\SIG en la web\tema2_practica\2.2\Archivos Vector\Archivos Vector\Andalucia\Andalucia.dbf"/>
+        <property key="driverName" value="gdbms dbf driver"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="otherDriverFile"/>
+        <property key="gdbmsname" value="gdbms6462ef1f_166da38dbaa__7ffc"/>
+        <property key="file" value="C:\Users\Cristina\Documents\UNIVERSIDAD\MUSS\SIG en la web\tema2_practica\2.2\Archivos Vector\Archivos Vector\Andalucia\Andalucia.dbf"/>
+        <property key="driverName" value="gdbms dbf driver"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="otherDriverFile"/>
+        <property key="gdbmsname" value="gdbms6462ef1f_166da38dbaa__7ffd"/>
+        <property key="file" value="C:\Users\Cristina\Documents\UNIVERSIDAD\MUSS\SIG en la web\tema2_practica\2.2\Archivos Vector\Archivos Vector\Andalucia\Andalucia.dbf"/>
+        <property key="driverName" value="gdbms dbf driver"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="otherDriverFile"/>
+        <property key="gdbmsname" value="gdbms6462ef1f_166da38dbaa__7ffe"/>
+        <property key="file" value="C:\Users\Cristina\Documents\UNIVERSIDAD\MUSS\SIG en la web\tema2_practica\2.2\Archivos Vector\Archivos Vector\Andalucia\Andalucia.dbf"/>
+        <property key="driverName" value="gdbms dbf driver"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="otherDriverFile"/>
+        <property key="gdbmsname" value="gdbms6462ef1f_166da38dbaa__7fda"/>
+        <property key="file" value="C:\Program Files (x86)\gvSIG desktop 1.12.0\gvSIG\extensiones\org.gvsig.extended-symbology\docs\line.dbf"/>
+        <property key="driverName" value="gdbms dbf driver"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="otherDriverFile"/>
+        <property key="gdbmsname" value="gdbms6462ef1f_166da38dbaa__7fdc"/>
+        <property key="file" value="C:\Users\Cristina\Documents\UNIVERSIDAD\MUSS\SIG en la web\tema2_practica\2.2\Carpeta nueva\provincias.dbf"/>
+        <property key="driverName" value="gdbms dbf driver"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="otherDriverFile"/>
+        <property key="gdbmsname" value="gdbms6462ef1f_166da38dbaa__7fdb"/>
+        <property key="file" value="C:\Users\Cristina\Documents\UNIVERSIDAD\MUSS\SIG en la web\tema2_practica\2.2\Carpeta nueva\provincias.dbf"/>
+        <property key="driverName" value="gdbms dbf driver"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="otherDriverFile"/>
+        <property key="gdbmsname" value="gdbms6462ef1f_166da38dbaa__7ffa"/>
+        <property key="file" value="C:\Users\Cristina\Documents\UNIVERSIDAD\MUSS\SIG en la web\tema2_practica\2.2\Archivos Vector\Archivos Vector\Andalucia\Andalucia.dbf"/>
+        <property key="driverName" value="gdbms dbf driver"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="otherDriverFile"/>
+        <property key="gdbmsname" value="gdbms6462ef1f_166da38dbaa__7fde"/>
+        <property key="file" value="C:\Users\Cristina\Documents\UNIVERSIDAD\MUSS\SIG en la web\tema2_practica\2.2\Carpeta nueva\provincias.dbf"/>
+        <property key="driverName" value="gdbms dbf driver"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="otherDriverFile"/>
+        <property key="gdbmsname" value="gdbms6462ef1f_166da38dbaa__7fdd"/>
+        <property key="file" value="C:\Users\Cristina\Documents\UNIVERSIDAD\MUSS\SIG en la web\tema2_practica\2.2\Carpeta nueva\provincias.dbf"/>
+        <property key="driverName" value="gdbms dbf driver"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="otherDriverFile"/>
+        <property key="gdbmsname" value="gdbms6462ef1f_166da38dbaa__7fdf"/>
+        <property key="file" value="C:\Users\Cristina\Documents\UNIVERSIDAD\MUSS\SIG en la web\tema2_practica\2.2\Carpeta nueva\provincias.dbf"/>
+        <property key="driverName" value="gdbms dbf driver"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="otherDriverFile"/>
+        <property key="gdbmsname" value="gdbms6462ef1f_166da38dbaa__7fe0"/>
+        <property key="file" value="C:\Users\Cristina\Documents\UNIVERSIDAD\MUSS\SIG en la web\tema2_practica\2.2\Carpeta nueva\provincias.dbf"/>
+        <property key="driverName" value="gdbms dbf driver"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="otherDriverFile"/>
+        <property key="gdbmsname" value="gdbms6462ef1f_166da38dbaa__7fe1"/>
+        <property key="file" value="C:\Users\Cristina\Documents\UNIVERSIDAD\MUSS\SIG en la web\tema2_practica\2.2\Archivos Vector\Archivos Vector\Municipios\Municipios.dbf"/>
+        <property key="driverName" value="gdbms dbf driver"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="otherDriverFile"/>
+        <property key="gdbmsname" value="gdbms6462ef1f_166da38dbaa__7fe2"/>
+        <property key="file" value="C:\Users\Cristina\Documents\UNIVERSIDAD\MUSS\SIG en la web\tema2_practica\2.2\Archivos Vector\Archivos Vector\Municipios\Municipios.dbf"/>
+        <property key="driverName" value="gdbms dbf driver"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="otherDriverFile"/>
+        <property key="gdbmsname" value="gdbms6462ef1f_166da38dbaa__7fe3"/>
+        <property key="file" value="C:\Users\Cristina\Documents\UNIVERSIDAD\MUSS\SIG en la web\tema2_practica\2.2\Archivos Vector\Archivos Vector\Municipios\Municipios.dbf"/>
+        <property key="driverName" value="gdbms dbf driver"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="sameDriverFile"/>
+        <property key="gdbmsname" value="gdbms6462ef1f_166da38dbaa__7fe4"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="sameDriverFile"/>
+        <property key="gdbmsname" value="gdbms6462ef1f_166da38dbaa__7fe5"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="sameDriverFile"/>
+        <property key="gdbmsname" value="gdbms6462ef1f_166da38dbaa__7fe6"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="sameDriverFile"/>
+        <property key="gdbmsname" value="gdbms6462ef1f_166da38dbaa__7fe7"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="sameDriverFile"/>
+        <property key="gdbmsname" value="gdbms6462ef1f_166da38dbaa__7fe8"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="otherDriverFile"/>
+        <property key="gdbmsname" value="gdbms6462ef1f_166da38dbaa__7fd9"/>
+        <property key="file" value="C:\Program Files (x86)\gvSIG desktop 1.12.0\gvSIG\extensiones\org.gvsig.extended-symbology\docs\bg-polygon.dbf"/>
+        <property key="driverName" value="gdbms dbf driver"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="otherDriverFile"/>
+        <property key="gdbmsname" value="gdbms6462ef1f_166da38dbaa__7fd8"/>
+        <property key="file" value="C:\Program Files (x86)\gvSIG desktop 1.12.0\gvSIG\extensiones\org.gvsig.extended-symbology\docs\polygon.dbf"/>
+        <property key="driverName" value="gdbms dbf driver"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="otherDriverFile"/>
+        <property key="gdbmsname" value="gdbms6462ef1f_166da38dbaa__7fed"/>
+        <property key="file" value="C:\Users\Cristina\Documents\UNIVERSIDAD\MUSS\SIG en la web\tema2_practica\2.2\Archivos Vector\Archivos Vector\Andalucia\Andalucia.dbf"/>
+        <property key="driverName" value="gdbms dbf driver"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="otherDriverFile"/>
+        <property key="gdbmsname" value="gdbms6462ef1f_166da38dbaa__7fec"/>
+        <property key="file" value="C:\Users\Cristina\Documents\UNIVERSIDAD\MUSS\SIG en la web\tema2_practica\2.2\Archivos Vector\Archivos Vector\Andalucia\Andalucia.dbf"/>
+        <property key="driverName" value="gdbms dbf driver"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="otherDriverFile"/>
+        <property key="gdbmsname" value="gdbms6462ef1f_166da38dbaa__7feb"/>
+        <property key="file" value="C:\Users\Cristina\Documents\UNIVERSIDAD\MUSS\SIG en la web\tema2_practica\2.2\Carpeta nueva\provincias.dbf"/>
+        <property key="driverName" value="gdbms dbf driver"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="otherDriverFile"/>
+        <property key="gdbmsname" value="gdbms6462ef1f_166da38dbaa__7fea"/>
+        <property key="file" value="C:\Users\Cristina\Documents\UNIVERSIDAD\MUSS\SIG en la web\tema2_practica\2.2\Carpeta nueva\provincias.dbf"/>
+        <property key="driverName" value="gdbms dbf driver"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="otherDriverFile"/>
+        <property key="gdbmsname" value="gdbms6462ef1f_166da38dbaa__7fef"/>
+        <property key="file" value="C:\Users\Cristina\Documents\UNIVERSIDAD\MUSS\SIG en la web\tema2_practica\2.2\Archivos Vector\Archivos Vector\Andalucia\Andalucia.dbf"/>
+        <property key="driverName" value="gdbms dbf driver"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="otherDriverFile"/>
+        <property key="gdbmsname" value="gdbms6462ef1f_166da38dbaa__7fee"/>
+        <property key="file" value="C:\Users\Cristina\Documents\UNIVERSIDAD\MUSS\SIG en la web\tema2_practica\2.2\Carpeta nueva\provincias.dbf"/>
+        <property key="driverName" value="gdbms dbf driver"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="otherDriverFile"/>
+        <property key="gdbmsname" value="gdbms6462ef1f_166da38dbaa__7b0f"/>
+        <property key="file" value="C:\Users\Cristina\Documents\UNIVERSIDAD\MUSS\SIG en la web\tema2_practica\2.2\Archivos Vector\Archivos Vector\Andalucia\Andalucia.dbf"/>
+        <property key="driverName" value="gdbms dbf driver"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="otherDriverFile"/>
+        <property key="gdbmsname" value="ORA_EPSG"/>
+        <property key="file" value="C:/Program Files (x86)/gvSIG desktop 1.12.0/gvSIG/extensiones/com.iver.cit.gvsig.oracle_spatial/dbf/ORA_EPSG.DBF"/>
+        <property key="driverName" value="gdbms dbf driver"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="otherDriverFile"/>
+        <property key="gdbmsname" value="gdbms6462ef1f_166da38dbaa__7ff0"/>
+        <property key="file" value="C:\Users\Cristina\Documents\UNIVERSIDAD\MUSS\SIG en la web\tema2_practica\2.2\Carpeta nueva\provincias.dbf"/>
+        <property key="driverName" value="gdbms dbf driver"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="otherDriverFile"/>
+        <property key="gdbmsname" value="gdbms6462ef1f_166da38dbaa__7ff1"/>
+        <property key="file" value="C:\Users\Cristina\Documents\UNIVERSIDAD\MUSS\SIG en la web\tema2_practica\2.2\Carpeta nueva\provincias.dbf"/>
+        <property key="driverName" value="gdbms dbf driver"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="otherDriverFile"/>
+        <property key="gdbmsname" value="gdbms6462ef1f_166da38dbaa__7fd6"/>
+        <property key="file" value="C:\Users\Cristina\Documents\UNIVERSIDAD\MUSS\SIG en la web\tema2_practica\2.2\Carpeta nueva\provincias.dbf"/>
+        <property key="driverName" value="gdbms dbf driver"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="otherDriverFile"/>
+        <property key="gdbmsname" value="gdbms6462ef1f_166da38dbaa__7ff4"/>
+        <property key="file" value="C:\Users\Cristina\Documents\UNIVERSIDAD\MUSS\SIG en la web\tema2_practica\2.2\Provincias\Provincias\shp570637579546270062.dbfshp570637579546270062.dbf.dbf"/>
+        <property key="driverName" value="gdbms dbf driver"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="otherDriverFile"/>
+        <property key="gdbmsname" value="gdbms6462ef1f_166da38dbaa__7fd7"/>
+        <property key="file" value="C:\Users\Cristina\Documents\UNIVERSIDAD\MUSS\SIG en la web\tema2_practica\2.2\Archivos Vector\Archivos Vector\Andalucia\Andalucia.dbf"/>
+        <property key="driverName" value="gdbms dbf driver"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="otherDriverFile"/>
+        <property key="gdbmsname" value="gdbms6462ef1f_166da38dbaa__7ff5"/>
+        <property key="file" value="C:\Users\Cristina\Documents\UNIVERSIDAD\MUSS\SIG en la web\tema2_practica\2.2\Carpeta nueva\provincias.dbf"/>
+        <property key="driverName" value="gdbms dbf driver"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="otherDriverFile"/>
+        <property key="gdbmsname" value="gdbms6462ef1f_166da38dbaa__7ff2"/>
+        <property key="file" value="C:\Users\Cristina\Documents\UNIVERSIDAD\MUSS\SIG en la web\tema2_practica\2.2\Carpeta nueva\provincias.dbf"/>
+        <property key="driverName" value="gdbms dbf driver"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="otherDriverFile"/>
+        <property key="gdbmsname" value="gdbms6462ef1f_166da38dbaa__8000"/>
+        <property key="file" value="C:\Users\Cristina\Documents\UNIVERSIDAD\MUSS\SIG en la web\tema2_practica\2.2\Archivos Vector\Archivos Vector\Andalucia\Andalucia.dbf"/>
+        <property key="driverName" value="gdbms dbf driver"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="otherDriverFile"/>
+        <property key="gdbmsname" value="gdbms6462ef1f_166da38dbaa__7ff3"/>
+        <property key="file" value="C:\Users\Cristina\Documents\UNIVERSIDAD\MUSS\SIG en la web\tema2_practica\2.2\Carpeta nueva\provincias.dbf"/>
+        <property key="driverName" value="gdbms dbf driver"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="otherDriverFile"/>
+        <property key="gdbmsname" value="gdbms6462ef1f_166da38dbaa__7ff8"/>
+        <property key="file" value="C:\Users\Cristina\Documents\UNIVERSIDAD\MUSS\SIG en la web\tema2_practica\2.2\Archivos Vector\Archivos Vector\Andalucia\Andalucia.dbf"/>
+        <property key="driverName" value="gdbms dbf driver"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="otherDriverFile"/>
+        <property key="gdbmsname" value="gdbms6462ef1f_166da38dbaa__7ff9"/>
+        <property key="file" value="C:\Users\Cristina\Documents\UNIVERSIDAD\MUSS\SIG en la web\tema2_practica\2.2\Archivos Vector\Archivos Vector\Andalucia\Andalucia.dbf"/>
+        <property key="driverName" value="gdbms dbf driver"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="otherDriverFile"/>
+        <property key="gdbmsname" value="gdbms6462ef1f_166da38dbaa__7ff6"/>
+        <property key="file" value="C:\Users\Cristina\Documents\UNIVERSIDAD\MUSS\SIG en la web\tema2_practica\2.2\Archivos Vector\Archivos Vector\Andalucia\Andalucia.dbf"/>
+        <property key="driverName" value="gdbms dbf driver"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="otherDriverFile"/>
+        <property key="gdbmsname" value="gdbms6462ef1f_166da38dbaa__7ff7"/>
+        <property key="file" value="C:\Users\Cristina\Documents\UNIVERSIDAD\MUSS\SIG en la web\tema2_practica\2.2\Archivos Vector\Archivos Vector\Andalucia\Andalucia.dbf"/>
+        <property key="driverName" value="gdbms dbf driver"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="className" value="ProjectView"/>
+        <property key="comment"/>
+        <property key="creationDate" value="3/11/18 16:35"/>
+        <property key="name" value="Sin título - 0"/>
+        <property key="owner"/>
+        <property key="numViews" value="2"/>
+        <property key="mapOverView" value="true"/>
+        <xml-tag>
+            <property key="className" value="com.iver.cit.gvsig.fmap.MapContext"/>
+            <xml-tag>
+                <property key="className" value="com.iver.cit.gvsig.fmap.ViewPort"/>
+                <property key="adjustedExtentX" value="28746.71122959623"/>
+                <property key="adjustedExtentY" value="3970165.1221884573"/>
+                <property key="adjustedExtentW" value="692264.1961334059"/>
+                <property key="adjustedExtentH" value="342935.2440963136"/>
+                <property key="backColor" value="255,255,255,255"/>
+                <property key="dist1pixel" value="581.2461547851562"/>
+                <property key="dist3pixel" value="1743.738525390625"/>
+                <property key="distanceUnits" value="1"/>
+                <property key="extentX" value="103863.4725736311"/>
+                <property key="extentY" value="3970165.1221884573"/>
+                <property key="extentW" value="542030.6734453362"/>
+                <property key="extentH" value="342935.2440963136"/>
+                <property key="mapUnits" value="1"/>
+                <property key="offsetX" value="0.0"/>
+                <property key="offsetY" value="0.0"/>
+                <property key="proj" value="EPSG:23030"/>
+                <property key="scale" value="0.001720441424895652"/>
+                <property key="zoomFactor" value="1.0"/>
+                <xml-tag>
+                    <property key="className" value="com.iver.cit.gvsig.fmap.ExtentHistory"/>
+                    <property key="num" value="6"/>
+                    <property key="numrec" value="10"/>
+                    <property key="extent0X" value="-80100.94222298445"/>
+                    <property key="extent0Y" value="4083508.126593761"/>
+                    <property key="extent0W" value="542030.6734008053"/>
+                    <property key="extent0H" value="342935.24409538275"/>
+                    <property key="extent1X" value="-351406.9020116036"/>
+                    <property key="extent1Y" value="3912040.50454607"/>
+                    <property key="extent1W" value="1084061.3468016107"/>
+                    <property key="extent1H" value="685870.4881907655"/>
+                    <property key="extent2X" value="-92171.10732255154"/>
+                    <property key="extent2Y" value="3766728.960437857"/>
+                    <property key="extent2W" value="1084061.3468016107"/>
+                    <property key="extent2H" value="685870.4881907655"/>
+                    <property key="extent3X" value="-20523.20913861721"/>
+                    <property key="extent3Y" value="4024221.016597611"/>
+                    <property key="extent3W" value="542030.6734008053"/>
+                    <property key="extent3H" value="342935.24409538275"/>
+                    <property key="extent4X" value="89332.31820719183"/>
+                    <property key="extent4Y" value="3986440.015129475"/>
+                    <property key="extent4W" value="542030.6734008053"/>
+                    <property key="extent4H" value="342935.24409538275"/>
+                    <property key="extent5X" value="89332.31816277036"/>
+                    <property key="extent5Y" value="3957958.9524833346"/>
+                    <property key="extent5W" value="542030.6734453362"/>
+                    <property key="extent5H" value="342935.2440963136"/>
+                    <property key="extent6X" value="19446.672406645364"/>
+                    <property key="extent6Y" value="4235794.524818992"/>
+                    <property key="extent6W" value="2906.430882172149"/>
+                    <property key="extent6H" value="0.2"/>
+                    <property key="extent7X" value="19083.368546373847"/>
+                    <property key="extent7Y" value="4234894.753796489"/>
+                    <property key="extent7W" value="3633.0386027151835"/>
+                    <property key="extent7H" value="1799.7420450057834"/>
+                    <property key="extent8X" value="18629.23872103445"/>
+                    <property key="extent8Y" value="4234669.786040863"/>
+                    <property key="extent8W" value="4541.298253393979"/>
+                    <property key="extent8H" value="2249.677556257695"/>
+                    <property key="extent9X" value="18061.576439359706"/>
+                    <property key="extent9Y" value="4234388.57634633"/>
+                    <property key="extent9W" value="5676.622816743467"/>
+                    <property key="extent9H" value="2812.09694532305"/>
+                </xml-tag>
+            </xml-tag>
+            <xml-tag>
+                <property key="className" value="com.iver.cit.gvsig.fmap.layers.FLayers"/>
+                <property key="active" value="false"/>
+                <property key="name"/>
+                <property key="minScale" value="-1.0"/>
+                <property key="maxScale" value="-1.0"/>
+                <property key="visible" value="true"/>
+                <property key="transparency" value="255"/>
+                <property key="isInTOC" value="true"/>
+                <property key="numLayers" value="3"/>
+                <property key="LayerNames" value="Relieve ,Andalucia ,MisMunicipios"/>
+                <xml-tag>
+                    <property key="className" value="org.gvsig.fmap.raster.layers.FLyrRasterSE"/>
+                    <property key="active" value="false"/>
+                    <property key="name" value="Relieve"/>
+                    <property key="minScale" value="-1.0"/>
+                    <property key="maxScale" value="-1.0"/>
+                    <property key="visible" value="false"/>
+                    <property key="proj" value="EPSG:23030"/>
+                    <property key="transparency" value="255"/>
+                    <property key="isInTOC" value="true"/>
+                    <property key="absolutePath" value="C:\Users\Cristina\Documents\UNIVERSIDAD\MUSS\SIG en la web\tema2_practica\2.2\Archivos Vector\Archivos Vector\Andalucia\Relieve.jpg"/>
+                    <property key="file" value="C:\Users\Cristina\Documents\UNIVERSIDAD\MUSS\SIG en la web\tema2_practica\2.2\Archivos Vector\Archivos Vector\Andalucia\Relieve.jpg"/>
+                    <property key="driverName" value="gvSIG Raster Driver"/>
+                    <property key="raster.class" value="org.gvsig.fmap.raster.layers.StatusLayerRaster"/>
+                    <property key="raster.bandR" value="0"/>
+                    <property key="raster.bandG" value="1"/>
+                    <property key="raster.bandB" value="2"/>
+                    <property key="raster.file0" value="C:\Users\Cristina\Documents\UNIVERSIDAD\MUSS\SIG en la web\tema2_practica\2.2\Archivos Vector\Archivos Vector\Andalucia\Relieve.jpg"/>
+                </xml-tag>
+                <xml-tag>
+                    <property key="className" value="com.iver.cit.gvsig.fmap.layers.FLyrVect"/>
+                    <property key="active" value="true"/>
+                    <property key="name" value="Andalucia"/>
+                    <property key="minScale" value="-1.0"/>
+                    <property key="maxScale" value="-1.0"/>
+                    <property key="visible" value="true"/>
+                    <property key="proj" value="EPSG:23030"/>
+                    <property key="transparency" value="255"/>
+                    <property key="isInTOC" value="true"/>
+                    <property key="type" value="vectorial"/>
+                    <property key="absolutePath" value="C:\Users\Cristina\Documents\UNIVERSIDAD\MUSS\SIG en la web\tema2_practica\2.2\Archivos Vector\Archivos Vector\Andalucia\Andalucia.shp"/>
+                    <property key="file" value="C:\Users\Cristina\Documents\UNIVERSIDAD\MUSS\SIG en la web\tema2_practica\2.2\Archivos Vector\Archivos Vector\Andalucia\Andalucia.shp"/>
+                    <property key="recordset-name" value="gdbms6462ef1f_166da38dbaa__8000"/>
+                    <property key="driverName" value="gvSIG shp driver"/>
+                    <property key="isLabeled" value="false"/>
+                    <xml-tag>
+                        <property key="childName" value="properties"/>
+                        <xml-tag>
+                            <property key="className" value="org.gvsig.hyperlink.config.LayerLinkConfig"/>
+                            <property key="enabled" value="false"/>
+                            <property key="layerPropertyName" value="org.gvsig.hyperlink.config"/>
+                            <xml-tag>
+                                <property key="className" value="org.gvsig.hyperlink.config.LinkConfig"/>
+                                <property key="actionCode" value="Txt_format"/>
+                                <property key="fieldName" value="CODIGO"/>
+                                <property key="extension" value=""/>
+                            </xml-tag>
+                        </xml-tag>
+                    </xml-tag>
+                    <xml-tag>
+                        <property key="className" value="com.iver.cit.gvsig.fmap.rendering.VectorialUniqueValueLegend"/>
+                        <property key="fieldNames" value="PROVINCIA"/>
+                        <property key="fieldTypes" value="12"/>
+                        <property key="ownOrder" value="false"/>
+                        <property key="orders" value=""/>
+                        <property key="colorScheme" value="0\,0\,0\,255 ,0\,84\,0\,255 ,0\,84\,0\,255 ,0\,168\,0\,255 ,0\,168\,0\,255 ,0\,255\,0\,255 ,0\,255\,0\,255 ,0\,255\,84\,255 ,0\,255\,84\,255 ,0\,255\,168\,255 ,0\,255\,168\,255 ,0\,255\,255\,255 ,0\,255\,255\,255 ,0\,0\,255\,255 ,0\,0\,255\,255 ,128\,0\,255\,255 ,128\,0\,255\,255 ,255\,0\,220\,255 ,255\,0\,220\,255 ,255\,0\,180\,255 ,255\,0\,180\,255 ,255\,0\,128\,255 ,255\,0\,128\,255 ,255\,0\,64\,255 ,255\,0\,64\,255 ,255\,0\,0\,255 ,255\,0\,0\,255 ,220\,190\,190\,255 ,223\,190\,190\,255 ,220\,220\,220\,255 ,220\,220\,220\,255 ,255\,255\,255\,255 ,255\,255\,255\,255"/>
+                        <property key="labelfield"/>
+                        <property key="labelFieldHeight"/>
+                        <property key="labelFieldRotation"/>
+                        <property key="useDefaultSymbol" value="true"/>
+                        <property key="numKeys" value="16"/>
+                        <property key="tipoValueKeys" value="com.hardcode.gdbms.engine.values.NullValue"/>
+                        <property key="keys" value="ALMERÍA ,CASTILLA- LA MANCHA ,CEUTA ,CÁDIZ ,CÓRDOBA ,EXTREMADURA ,GIBRALTAR ,GRANADA ,HUELVA ,JAÉN ,MAR MEDITERRÁNEO ,MARRUECOS ,MURCIA ,MÁLAGA ,PORTUGAL ,SEVILLA"/>
+                        <property key="values" value="Default ,ALMERÍA ,CASTILLA- LA MANCHA ,CEUTA ,CÁDIZ ,CÓRDOBA ,EXTREMADURA ,GIBRALTAR ,GRANADA ,HUELVA ,JAÉN ,MAR MEDITERRÁNEO ,MARRUECOS ,MURCIA ,MÁLAGA ,PORTUGAL ,SEVILLA"/>
+                        <property key="typeKeys" value="-1 ,-1 ,-1 ,-1 ,-1 ,-1 ,-1 ,-1 ,-1 ,-1 ,-1 ,-1 ,-1 ,-1 ,-1 ,-1"/>
+                        <property key="typeValues" value="1111 ,-1 ,-1 ,-1 ,-1 ,-1 ,-1 ,-1 ,-1 ,-1 ,-1 ,-1 ,-1 ,-1 ,-1 ,-1 ,-1"/>
+                        <xml-tag>
+                            <property key="className" value="com.iver.cit.gvsig.fmap.core.symbols.SimpleFillSymbol"/>
+                            <property key="color" value="60,235,235,255"/>
+                            <property key="hasFill" value="true"/>
+                            <property key="desc" value="Por defecto"/>
+                            <property key="isShapeVisible" value="true"/>
+                            <property key="referenceSystem" value="0"/>
+                            <property key="unit" value="-1"/>
+                            <property key="hasOutline" value="true"/>
+                            <xml-tag>
+                                <property key="className" value="com.iver.cit.gvsig.fmap.core.symbols.SimpleLineSymbol"/>
+                                <property key="isShapeVisible" value="true"/>
+                                <property key="desc"/>
+                                <property key="unit" value="-1"/>
+                                <property key="referenceSystem" value="0"/>
+                                <property key="color" value="128,128,128,255"/>
+                                <xml-tag>
+                                    <property key="className" value="com.iver.cit.gvsig.fmap.core.styles.SimpleLineStyle"/>
+                                    <property key="desc"/>
+                                    <property key="lineWidth" value="1.0"/>
+                                    <property key="dashPhase" value="0.0"/>
+                                    <property key="endCap" value="0"/>
+                                    <property key="lineJoin" value="2"/>
+                                    <property key="miterLimit" value="10.0"/>
+                                    <property key="offset" value="0.0"/>
+                                    <property key="unit" value="0"/>
+                                </xml-tag>
+                            </xml-tag>
+                        </xml-tag>
+                        <xml-tag>
+                            <property key="className" value="com.iver.cit.gvsig.fmap.core.symbols.SimpleFillSymbol"/>
+                            <property key="color" value="128,0,255,255"/>
+                            <property key="hasFill" value="true"/>
+                            <property key="desc" value="ALMERÍA"/>
+                            <property key="isShapeVisible" value="true"/>
+                            <property key="referenceSystem" value="0"/>
+                            <property key="unit" value="-1"/>
+                            <property key="hasOutline" value="true"/>
+                            <xml-tag>
+                                <property key="className" value="com.iver.cit.gvsig.fmap.core.symbols.SimpleLineSymbol"/>
+                                <property key="isShapeVisible" value="true"/>
+                                <property key="desc"/>
+                                <property key="unit" value="-1"/>
+                                <property key="referenceSystem" value="0"/>
+                                <property key="color" value="128,128,128,255"/>
+                                <xml-tag>
+                                    <property key="className" value="com.iver.cit.gvsig.fmap.core.styles.SimpleLineStyle"/>
+                                    <property key="desc"/>
+                                    <property key="lineWidth" value="1.0"/>
+                                    <property key="dashPhase" value="0.0"/>
+                                    <property key="endCap" value="0"/>
+                                    <property key="lineJoin" value="2"/>
+                                    <property key="miterLimit" value="10.0"/>
+                                    <property key="offset" value="0.0"/>
+                                    <property key="unit" value="0"/>
+                                </xml-tag>
+                            </xml-tag>
+                        </xml-tag>
+                        <xml-tag>
+                            <property key="className" value="com.iver.cit.gvsig.fmap.core.symbols.SimpleFillSymbol"/>
+                            <property key="color" value="0,255,168,255"/>
+                            <property key="hasFill" value="true"/>
+                            <property key="desc" value="CASTILLA- LA MANCHA"/>
+                            <property key="isShapeVisible" value="true"/>
+                            <property key="referenceSystem" value="0"/>
+                            <property key="unit" value="-1"/>
+                            <property key="hasOutline" value="true"/>
+                            <xml-tag>
+                                <property key="className" value="com.iver.cit.gvsig.fmap.core.symbols.SimpleLineSymbol"/>
+                                <property key="isShapeVisible" value="true"/>
+                                <property key="desc"/>
+                                <property key="unit" value="-1"/>
+                                <property key="referenceSystem" value="0"/>
+                                <property key="color" value="128,128,128,255"/>
+                                <xml-tag>
+                                    <property key="className" value="com.iver.cit.gvsig.fmap.core.styles.SimpleLineStyle"/>
+                                    <property key="desc"/>
+                                    <property key="lineWidth" value="1.0"/>
+                                    <property key="dashPhase" value="0.0"/>
+                                    <property key="endCap" value="0"/>
+                                    <property key="lineJoin" value="2"/>
+                                    <property key="miterLimit" value="10.0"/>
+                                    <property key="offset" value="0.0"/>
+                                    <property key="unit" value="0"/>
+                                </xml-tag>
+                            </xml-tag>
+                        </xml-tag>
+                        <xml-tag>
+                            <property key="className" value="com.iver.cit.gvsig.fmap.core.symbols.SimpleFillSymbol"/>
+                            <property key="color" value="255,0,64,255"/>
+                            <property key="hasFill" value="true"/>
+                            <property key="desc" value="CEUTA"/>
+                            <property key="isShapeVisible" value="true"/>
+                            <property key="referenceSystem" value="0"/>
+                            <property key="unit" value="-1"/>
+                            <property key="hasOutline" value="true"/>
+                            <xml-tag>
+                                <property key="className" value="com.iver.cit.gvsig.fmap.core.symbols.SimpleLineSymbol"/>
+                                <property key="isShapeVisible" value="true"/>
+                                <property key="desc"/>
+                                <property key="unit" value="-1"/>
+                                <property key="referenceSystem" value="0"/>
+                                <property key="color" value="128,128,128,255"/>
+                                <xml-tag>
+                                    <property key="className" value="com.iver.cit.gvsig.fmap.core.styles.SimpleLineStyle"/>
+                                    <property key="desc"/>
+                                    <property key="lineWidth" value="1.0"/>
+                                    <property key="dashPhase" value="0.0"/>
+                                    <property key="endCap" value="0"/>
+                                    <property key="lineJoin" value="2"/>
+                                    <property key="miterLimit" value="10.0"/>
+                                    <property key="offset" value="0.0"/>
+                                    <property key="unit" value="0"/>
+                                </xml-tag>
+                            </xml-tag>
+                        </xml-tag>
+                        <xml-tag>
+                            <property key="className" value="com.iver.cit.gvsig.fmap.core.symbols.SimpleFillSymbol"/>
+                            <property key="color" value="0,0,255,255"/>
+                            <property key="hasFill" value="true"/>
+                            <property key="desc" value="CÁDIZ"/>
+                            <property key="isShapeVisible" value="true"/>
+                            <property key="referenceSystem" value="0"/>
+                            <property key="unit" value="-1"/>
+                            <property key="hasOutline" value="true"/>
+                            <xml-tag>
+                                <property key="className" value="com.iver.cit.gvsig.fmap.core.symbols.SimpleLineSymbol"/>
+                                <property key="isShapeVisible" value="true"/>
+                                <property key="desc"/>
+                                <property key="unit" value="-1"/>
+                                <property key="referenceSystem" value="0"/>
+                                <property key="color" value="128,128,128,255"/>
+                                <xml-tag>
+                                    <property key="className" value="com.iver.cit.gvsig.fmap.core.styles.SimpleLineStyle"/>
+                                    <property key="desc"/>
+                                    <property key="lineWidth" value="1.0"/>
+                                    <property key="dashPhase" value="0.0"/>
+                                    <property key="endCap" value="0"/>
+                                    <property key="lineJoin" value="2"/>
+                                    <property key="miterLimit" value="10.0"/>
+                                    <property key="offset" value="0.0"/>
+                                    <property key="unit" value="0"/>
+                                </xml-tag>
+                            </xml-tag>
+                        </xml-tag>
+                        <xml-tag>
+                            <property key="className" value="com.iver.cit.gvsig.fmap.core.symbols.SimpleFillSymbol"/>
+                            <property key="color" value="0,255,84,255"/>
+                            <property key="hasFill" value="true"/>
+                            <property key="desc" value="CÓRDOBA"/>
+                            <property key="isShapeVisible" value="true"/>
+                            <property key="referenceSystem" value="0"/>
+                            <property key="unit" value="-1"/>
+                            <property key="hasOutline" value="true"/>
+                            <xml-tag>
+                                <property key="className" value="com.iver.cit.gvsig.fmap.core.symbols.SimpleLineSymbol"/>
+                                <property key="isShapeVisible" value="true"/>
+                                <property key="desc"/>
+                                <property key="unit" value="-1"/>
+                                <property key="referenceSystem" value="0"/>
+                                <property key="color" value="128,128,128,255"/>
+                                <xml-tag>
+                                    <property key="className" value="com.iver.cit.gvsig.fmap.core.styles.SimpleLineStyle"/>
+                                    <property key="desc"/>
+                                    <property key="lineWidth" value="1.0"/>
+                                    <property key="dashPhase" value="0.0"/>
+                                    <property key="endCap" value="0"/>
+                                    <property key="lineJoin" value="2"/>
+                                    <property key="miterLimit" value="10.0"/>
+                                    <property key="offset" value="0.0"/>
+                                    <property key="unit" value="0"/>
+                                </xml-tag>
+                            </xml-tag>
+                        </xml-tag>
+                        <xml-tag>
+                            <property key="className" value="com.iver.cit.gvsig.fmap.core.symbols.SimpleFillSymbol"/>
+                            <property key="color" value="128,0,255,255"/>
+                            <property key="hasFill" value="true"/>
+                            <property key="desc" value="EXTREMADURA"/>
+                            <property key="isShapeVisible" value="true"/>
+                            <property key="referenceSystem" value="0"/>
+                            <property key="unit" value="-1"/>
+                            <property key="hasOutline" value="true"/>
+                            <xml-tag>
+                                <property key="className" value="com.iver.cit.gvsig.fmap.core.symbols.SimpleLineSymbol"/>
+                                <property key="isShapeVisible" value="true"/>
+                                <property key="desc"/>
+                                <property key="unit" value="-1"/>
+                                <property key="referenceSystem" value="0"/>
+                                <property key="color" value="128,128,128,255"/>
+                                <xml-tag>
+                                    <property key="className" value="com.iver.cit.gvsig.fmap.core.styles.SimpleLineStyle"/>
+                                    <property key="desc"/>
+                                    <property key="lineWidth" value="1.0"/>
+                                    <property key="dashPhase" value="0.0"/>
+                                    <property key="endCap" value="0"/>
+                                    <property key="lineJoin" value="2"/>
+                                    <property key="miterLimit" value="10.0"/>
+                                    <property key="offset" value="0.0"/>
+                                    <property key="unit" value="0"/>
+                                </xml-tag>
+                            </xml-tag>
+                        </xml-tag>
+                        <xml-tag>
+                            <property key="className" value="com.iver.cit.gvsig.fmap.core.symbols.SimpleFillSymbol"/>
+                            <property key="color" value="255,0,64,255"/>
+                            <property key="hasFill" value="true"/>
+                            <property key="desc" value="GIBRALTAR"/>
+                            <property key="isShapeVisible" value="true"/>
+                            <property key="referenceSystem" value="0"/>
+                            <property key="unit" value="-1"/>
+                            <property key="hasOutline" value="true"/>
+                            <xml-tag>
+                                <property key="className" value="com.iver.cit.gvsig.fmap.core.symbols.SimpleLineSymbol"/>
+                                <property key="isShapeVisible" value="true"/>
+                                <property key="desc"/>
+                                <property key="unit" value="-1"/>
+                                <property key="referenceSystem" value="0"/>
+                                <property key="color" value="128,128,128,255"/>
+                                <xml-tag>
+                                    <property key="className" value="com.iver.cit.gvsig.fmap.core.styles.SimpleLineStyle"/>
+                                    <property key="desc"/>
+                                    <property key="lineWidth" value="1.0"/>
+                                    <property key="dashPhase" value="0.0"/>
+                                    <property key="endCap" value="0"/>
+                                    <property key="lineJoin" value="2"/>
+                                    <property key="miterLimit" value="10.0"/>
+                                    <property key="offset" value="0.0"/>
+                                    <property key="unit" value="0"/>
+                                </xml-tag>
+                            </xml-tag>
+                        </xml-tag>
+                        <xml-tag>
+                            <property key="className" value="com.iver.cit.gvsig.fmap.core.symbols.SimpleFillSymbol"/>
+                            <property key="color" value="255,204,255,255"/>
+                            <property key="hasFill" value="true"/>
+                            <property key="desc" value="GRANADA"/>
+                            <property key="isShapeVisible" value="true"/>
+                            <property key="referenceSystem" value="0"/>
+                            <property key="unit" value="-1"/>
+                            <property key="hasOutline" value="true"/>
+                            <xml-tag>
+                                <property key="className" value="com.iver.cit.gvsig.fmap.core.symbols.SimpleLineSymbol"/>
+                                <property key="isShapeVisible" value="true"/>
+                                <property key="desc"/>
+                                <property key="unit" value="-1"/>
+                                <property key="referenceSystem" value="0"/>
+                                <property key="color" value="128,128,128,255"/>
+                                <xml-tag>
+                                    <property key="className" value="com.iver.cit.gvsig.fmap.core.styles.SimpleLineStyle"/>
+                                    <property key="desc"/>
+                                    <property key="lineWidth" value="1.0"/>
+                                    <property key="dashPhase" value="0.0"/>
+                                    <property key="endCap" value="0"/>
+                                    <property key="lineJoin" value="2"/>
+                                    <property key="miterLimit" value="10.0"/>
+                                    <property key="offset" value="0.0"/>
+                                    <property key="unit" value="0"/>
+                                </xml-tag>
+                            </xml-tag>
+                        </xml-tag>
+                        <xml-tag>
+                            <property key="className" value="com.iver.cit.gvsig.fmap.core.symbols.SimpleFillSymbol"/>
+                            <property key="color" value="255,255,204,255"/>
+                            <property key="hasFill" value="true"/>
+                            <property key="desc" value="HUELVA"/>
+                            <property key="isShapeVisible" value="true"/>
+                            <property key="referenceSystem" value="0"/>
+                            <property key="unit" value="-1"/>
+                            <property key="hasOutline" value="true"/>
+                            <xml-tag>
+                                <property key="className" value="com.iver.cit.gvsig.fmap.core.symbols.SimpleLineSymbol"/>
+                                <property key="isShapeVisible" value="true"/>
+                                <property key="desc"/>
+                                <property key="unit" value="-1"/>
+                                <property key="referenceSystem" value="0"/>
+                                <property key="color" value="128,128,128,255"/>
+                                <xml-tag>
+                                    <property key="className" value="com.iver.cit.gvsig.fmap.core.styles.SimpleLineStyle"/>
+                                    <property key="desc"/>
+                                    <property key="lineWidth" value="1.0"/>
+                                    <property key="dashPhase" value="0.0"/>
+                                    <property key="endCap" value="0"/>
+                                    <property key="lineJoin" value="2"/>
+                                    <property key="miterLimit" value="10.0"/>
+                                    <property key="offset" value="0.0"/>
+                                    <property key="unit" value="0"/>
+                                </xml-tag>
+                            </xml-tag>
+                        </xml-tag>
+                        <xml-tag>
+                            <property key="className" value="com.iver.cit.gvsig.fmap.core.symbols.SimpleFillSymbol"/>
+                            <property key="color" value="255,0,64,255"/>
+                            <property key="hasFill" value="true"/>
+                            <property key="desc" value="JAÉN"/>
+                            <property key="isShapeVisible" value="true"/>
+                            <property key="referenceSystem" value="0"/>
+                            <property key="unit" value="-1"/>
+                            <property key="hasOutline" value="true"/>
+                            <xml-tag>
+                                <property key="className" value="com.iver.cit.gvsig.fmap.core.symbols.SimpleLineSymbol"/>
+                                <property key="isShapeVisible" value="true"/>
+                                <property key="desc"/>
+                                <property key="unit" value="-1"/>
+                                <property key="referenceSystem" value="0"/>
+                                <property key="color" value="128,128,128,255"/>
+                                <xml-tag>
+                                    <property key="className" value="com.iver.cit.gvsig.fmap.core.styles.SimpleLineStyle"/>
+                                    <property key="desc"/>
+                                    <property key="lineWidth" value="1.0"/>
+                                    <property key="dashPhase" value="0.0"/>
+                                    <property key="endCap" value="0"/>
+                                    <property key="lineJoin" value="2"/>
+                                    <property key="miterLimit" value="10.0"/>
+                                    <property key="offset" value="0.0"/>
+                                    <property key="unit" value="0"/>
+                                </xml-tag>
+                            </xml-tag>
+                        </xml-tag>
+                        <xml-tag>
+                            <property key="className" value="com.iver.cit.gvsig.fmap.core.symbols.SimpleFillSymbol"/>
+                            <property key="color" value="255,0,180,255"/>
+                            <property key="hasFill" value="true"/>
+                            <property key="desc" value="MAR MEDITERRÁNEO"/>
+                            <property key="isShapeVisible" value="true"/>
+                            <property key="referenceSystem" value="0"/>
+                            <property key="unit" value="-1"/>
+                            <property key="hasOutline" value="true"/>
+                            <xml-tag>
+                                <property key="className" value="com.iver.cit.gvsig.fmap.core.symbols.SimpleLineSymbol"/>
+                                <property key="isShapeVisible" value="true"/>
+                                <property key="desc"/>
+                                <property key="unit" value="-1"/>
+                                <property key="referenceSystem" value="0"/>
+                                <property key="color" value="128,128,128,255"/>
+                                <xml-tag>
+                                    <property key="className" value="com.iver.cit.gvsig.fmap.core.styles.SimpleLineStyle"/>
+                                    <property key="desc"/>
+                                    <property key="lineWidth" value="1.0"/>
+                                    <property key="dashPhase" value="0.0"/>
+                                    <property key="endCap" value="0"/>
+                                    <property key="lineJoin" value="2"/>
+                                    <property key="miterLimit" value="10.0"/>
+                                    <property key="offset" value="0.0"/>
+                                    <property key="unit" value="0"/>
+                                </xml-tag>
+                            </xml-tag>
+                        </xml-tag>
+                        <xml-tag>
+                            <property key="className" value="com.iver.cit.gvsig.fmap.core.symbols.SimpleFillSymbol"/>
+                            <property key="color" value="255,0,64,255"/>
+                            <property key="hasFill" value="true"/>
+                            <property key="desc" value="MARRUECOS"/>
+                            <property key="isShapeVisible" value="true"/>
+                            <property key="referenceSystem" value="0"/>
+                            <property key="unit" value="-1"/>
+                            <property key="hasOutline" value="true"/>
+                            <xml-tag>
+                                <property key="className" value="com.iver.cit.gvsig.fmap.core.symbols.SimpleLineSymbol"/>
+                                <property key="isShapeVisible" value="true"/>
+                                <property key="desc"/>
+                                <property key="unit" value="-1"/>
+                                <property key="referenceSystem" value="0"/>
+                                <property key="color" value="128,128,128,255"/>
+                                <xml-tag>
+                                    <property key="className" value="com.iver.cit.gvsig.fmap.core.styles.SimpleLineStyle"/>
+                                    <property key="desc"/>
+                                    <property key="lineWidth" value="1.0"/>
+                                    <property key="dashPhase" value="0.0"/>
+                                    <property key="endCap" value="0"/>
+                                    <property key="lineJoin" value="2"/>
+                                    <property key="miterLimit" value="10.0"/>
+                                    <property key="offset" value="0.0"/>
+                                    <property key="unit" value="0"/>
+                                </xml-tag>
+                            </xml-tag>
+                        </xml-tag>
+                        <xml-tag>
+                            <property key="className" value="com.iver.cit.gvsig.fmap.core.symbols.SimpleFillSymbol"/>
+                            <property key="color" value="220,220,220,255"/>
+                            <property key="hasFill" value="true"/>
+                            <property key="desc" value="MURCIA"/>
+                            <property key="isShapeVisible" value="true"/>
+                            <property key="referenceSystem" value="0"/>
+                            <property key="unit" value="-1"/>
+                            <property key="hasOutline" value="true"/>
+                            <xml-tag>
+                                <property key="className" value="com.iver.cit.gvsig.fmap.core.symbols.SimpleLineSymbol"/>
+                                <property key="isShapeVisible" value="true"/>
+                                <property key="desc"/>
+                                <property key="unit" value="-1"/>
+                                <property key="referenceSystem" value="0"/>
+                                <property key="color" value="128,128,128,255"/>
+                                <xml-tag>
+                                    <property key="className" value="com.iver.cit.gvsig.fmap.core.styles.SimpleLineStyle"/>
+                                    <property key="desc"/>
+                                    <property key="lineWidth" value="1.0"/>
+                                    <property key="dashPhase" value="0.0"/>
+                                    <property key="endCap" value="0"/>
+                                    <property key="lineJoin" value="2"/>
+                                    <property key="miterLimit" value="10.0"/>
+                                    <property key="offset" value="0.0"/>
+                                    <property key="unit" value="0"/>
+                                </xml-tag>
+                            </xml-tag>
+                        </xml-tag>
+                        <xml-tag>
+                            <property key="className" value="com.iver.cit.gvsig.fmap.core.symbols.SimpleFillSymbol"/>
+                            <property key="color" value="0,0,255,255"/>
+                            <property key="hasFill" value="true"/>
+                            <property key="desc" value="MÁLAGA"/>
+                            <property key="isShapeVisible" value="true"/>
+                            <property key="referenceSystem" value="0"/>
+                            <property key="unit" value="-1"/>
+                            <property key="hasOutline" value="true"/>
+                            <xml-tag>
+                                <property key="className" value="com.iver.cit.gvsig.fmap.core.symbols.SimpleLineSymbol"/>
+                                <property key="isShapeVisible" value="true"/>
+                                <property key="desc"/>
+                                <property key="unit" value="-1"/>
+                                <property key="referenceSystem" value="0"/>
+                                <property key="color" value="128,128,128,255"/>
+                                <xml-tag>
+                                    <property key="className" value="com.iver.cit.gvsig.fmap.core.styles.SimpleLineStyle"/>
+                                    <property key="desc"/>
+                                    <property key="lineWidth" value="1.0"/>
+                                    <property key="dashPhase" value="0.0"/>
+                                    <property key="endCap" value="0"/>
+                                    <property key="lineJoin" value="2"/>
+                                    <property key="miterLimit" value="10.0"/>
+                                    <property key="offset" value="0.0"/>
+                                    <property key="unit" value="0"/>
+                                </xml-tag>
+                            </xml-tag>
+                        </xml-tag>
+                        <xml-tag>
+                            <property key="className" value="com.iver.cit.gvsig.fmap.core.symbols.SimpleFillSymbol"/>
+                            <property key="color" value="0,0,255,255"/>
+                            <property key="hasFill" value="true"/>
+                            <property key="desc" value="PORTUGAL"/>
+                            <property key="isShapeVisible" value="true"/>
+                            <property key="referenceSystem" value="0"/>
+                            <property key="unit" value="-1"/>
+                            <property key="hasOutline" value="true"/>
+                            <xml-tag>
+                                <property key="className" value="com.iver.cit.gvsig.fmap.core.symbols.SimpleLineSymbol"/>
+                                <property key="isShapeVisible" value="true"/>
+                                <property key="desc"/>
+                                <property key="unit" value="-1"/>
+                                <property key="referenceSystem" value="0"/>
+                                <property key="color" value="128,128,128,255"/>
+                                <xml-tag>
+                                    <property key="className" value="com.iver.cit.gvsig.fmap.core.styles.SimpleLineStyle"/>
+                                    <property key="desc"/>
+                                    <property key="lineWidth" value="1.0"/>
+                                    <property key="dashPhase" value="0.0"/>
+                                    <property key="endCap" value="0"/>
+                                    <property key="lineJoin" value="2"/>
+                                    <property key="miterLimit" value="10.0"/>
+                                    <property key="offset" value="0.0"/>
+                                    <property key="unit" value="0"/>
+                                </xml-tag>
+                            </xml-tag>
+                        </xml-tag>
+                        <xml-tag>
+                            <property key="className" value="com.iver.cit.gvsig.fmap.core.symbols.SimpleFillSymbol"/>
+                            <property key="color" value="0,255,0,255"/>
+                            <property key="hasFill" value="true"/>
+                            <property key="desc" value="SEVILLA"/>
+                            <property key="isShapeVisible" value="true"/>
+                            <property key="referenceSystem" value="0"/>
+                            <property key="unit" value="-1"/>
+                            <property key="hasOutline" value="true"/>
+                            <xml-tag>
+                                <property key="className" value="com.iver.cit.gvsig.fmap.core.symbols.SimpleLineSymbol"/>
+                                <property key="isShapeVisible" value="true"/>
+                                <property key="desc"/>
+                                <property key="unit" value="-1"/>
+                                <property key="referenceSystem" value="0"/>
+                                <property key="color" value="128,128,128,255"/>
+                                <xml-tag>
+                                    <property key="className" value="com.iver.cit.gvsig.fmap.core.styles.SimpleLineStyle"/>
+                                    <property key="desc"/>
+                                    <property key="lineWidth" value="1.0"/>
+                                    <property key="dashPhase" value="0.0"/>
+                                    <property key="endCap" value="0"/>
+                                    <property key="lineJoin" value="2"/>
+                                    <property key="miterLimit" value="10.0"/>
+                                    <property key="offset" value="0.0"/>
+                                    <property key="unit" value="0"/>
+                                </xml-tag>
+                            </xml-tag>
+                        </xml-tag>
+                    </xml-tag>
+                    <xml-tag>
+                        <property key="className" value="com.iver.cit.gvsig.fmap.layers.SelectionSupport"/>
+                        <property key="numBitSet" value="6"/>
+                        <property key="0" value="12"/>
+                        <property key="1" value="15"/>
+                        <property key="2" value="18"/>
+                        <property key="3" value="21"/>
+                        <property key="4" value="24"/>
+                        <property key="5" value="26"/>
+                    </xml-tag>
+                    <xml-tag>
+                        <property key="className" value="com.iver.cit.gvsig.fmap.rendering.styling.labeling.AttrInTableLabelingStrategy"/>
+                        <property key="labelingStrategy" value="labelingStrategy"/>
+                        <property key="TextField" value="PROVINCIA"/>
+                        <property key="fontSize" value="8"/>
+                        <property key="fontName" value="Tahoma"/>
+                        <property key="fontStyle" value="0"/>
+                        <property key="useFixedSize" value="false"/>
+                        <property key="useFixedColor" value="true"/>
+                        <property key="fixedColor" value="0,0,0,255"/>
+                        <property key="fixedSize" value="10.0"/>
+                        <property key="Unit" value="-1"/>
+                        <property key="referenceSystem" value="1"/>
+                    </xml-tag>
+                    <xml-tag>
+                        <property key="typeChild" value="linkProperties"/>
+                        <property key="extName"/>
+                        <property key="fieldName"/>
+                        <property key="typeLink" value="0"/>
+                    </xml-tag>
+                </xml-tag>
+                <xml-tag>
+                    <property key="className" value="com.iver.cit.gvsig.fmap.layers.FLyrVect"/>
+                    <property key="active" value="false"/>
+                    <property key="name" value="MisMunicipios"/>
+                    <property key="minScale" value="-1.0"/>
+                    <property key="maxScale" value="-1.0"/>
+                    <property key="visible" value="false"/>
+                    <property key="proj" value="EPSG:23030"/>
+                    <property key="transparency" value="255"/>
+                    <property key="isInTOC" value="true"/>
+                    <property key="type" value="vectorial"/>
+                    <property key="absolutePath" value="C:\Users\Cristina\Documents\UNIVERSIDAD\MUSS\SIG en la web\tema2_practica\2.2\Carpeta nueva\provincias.shp"/>
+                    <property key="file" value="C:\Users\Cristina\Documents\UNIVERSIDAD\MUSS\SIG en la web\tema2_practica\2.2\Carpeta nueva\provincias.shp"/>
+                    <property key="recordset-name" value="gdbms6462ef1f_166da38dbaa__7ff5"/>
+                    <property key="driverName" value="gvSIG shp driver"/>
+                    <property key="isLabeled" value="true"/>
+                    <xml-tag>
+                        <property key="childName" value="properties"/>
+                        <xml-tag>
+                            <property key="className" value="org.gvsig.hyperlink.config.LayerLinkConfig"/>
+                            <property key="enabled" value="true"/>
+                            <property key="layerPropertyName" value="org.gvsig.hyperlink.config"/>
+                            <xml-tag>
+                                <property key="className" value="org.gvsig.hyperlink.config.LinkConfig"/>
+                                <property key="actionCode" value="Txt_format"/>
+                                <property key="fieldName" value="PROVINCIA"/>
+                                <property key="extension" value=""/>
+                            </xml-tag>
+                            <xml-tag>
+                                <property key="className" value="org.gvsig.hyperlink.config.LinkConfig"/>
+                                <property key="actionCode" value="Txt_format"/>
+                                <property key="fieldName" value="PROVINCIA"/>
+                                <property key="extension" value=""/>
+                            </xml-tag>
+                        </xml-tag>
+                    </xml-tag>
+                    <xml-tag>
+                        <property key="className" value="com.iver.cit.gvsig.fmap.rendering.SingleSymbolLegend"/>
+                        <xml-tag>
+                            <property key="className" value="com.iver.cit.gvsig.fmap.core.symbols.SimpleFillSymbol"/>
+                            <property key="color" value="60,235,235,255"/>
+                            <property key="hasFill" value="false"/>
+                            <property key="desc" value=""/>
+                            <property key="isShapeVisible" value="true"/>
+                            <property key="referenceSystem" value="0"/>
+                            <property key="unit" value="-1"/>
+                            <property key="hasOutline" value="true"/>
+                            <xml-tag>
+                                <property key="className" value="com.iver.cit.gvsig.fmap.core.symbols.SimpleLineSymbol"/>
+                                <property key="isShapeVisible" value="true"/>
+                                <property key="desc"/>
+                                <property key="unit" value="-1"/>
+                                <property key="referenceSystem" value="0"/>
+                                <property key="color" value="128,128,128,255"/>
+                                <xml-tag>
+                                    <property key="className" value="com.iver.cit.gvsig.fmap.core.styles.SimpleLineStyle"/>
+                                    <property key="desc"/>
+                                    <property key="lineWidth" value="1.0"/>
+                                    <property key="dashPhase" value="0.0"/>
+                                    <property key="endCap" value="0"/>
+                                    <property key="lineJoin" value="2"/>
+                                    <property key="miterLimit" value="10.0"/>
+                                    <property key="offset" value="0.0"/>
+                                    <property key="unit" value="0"/>
+                                </xml-tag>
+                            </xml-tag>
+                        </xml-tag>
+                    </xml-tag>
+                    <xml-tag>
+                        <property key="className" value="com.iver.cit.gvsig.fmap.layers.SelectionSupport"/>
+                        <property key="numBitSet" value="0"/>
+                    </xml-tag>
+                    <xml-tag>
+                        <property key="labelingStrategy" value="labelingStrategy"/>
+                        <property key="className" value="org.gvsig.symbology.fmap.labeling.GeneralLabelingStrategy"/>
+                        <property key="allowsOverlapping" value="false"/>
+                        <xml-tag>
+                            <property key="className" value="com.iver.cit.gvsig.fmap.rendering.styling.labeling.DefaultLabelingMethod"/>
+                            <property key="id" value="LabelingMethod"/>
+                            <xml-tag>
+                                <property key="className" value="com.iver.cit.gvsig.fmap.rendering.styling.labeling.LabelClass"/>
+                                <property key="isVisible" value="true"/>
+                                <property key="name" value=""/>
+                                <property key="labelExpressions" value="[PROVINCIA]"/>
+                                <property key="unit" value="-1"/>
+                                <property key="referenceSystem" value="0"/>
+                                <property key="priority" value="0"/>
+                                <property key="useSqlQuery" value="false"/>
+                                <property key="texts" value="SEVILLA"/>
+                                <property key="sqlQuery" value=""/>
+                                <property key="id" value="defaultLabelClass"/>
+                                <xml-tag>
+                                    <property key="className" value="com.iver.cit.gvsig.fmap.core.symbols.SimpleTextSymbol"/>
+                                    <property key="desc"/>
+                                    <property key="isShapeVisible" value="true"/>
+                                    <property key="font" value="Times New Roman"/>
+                                    <property key="fontStyle" value="0"/>
+                                    <property key="size" value="8"/>
+                                    <property key="text" value="SEVILLA"/>
+                                    <property key="textColor" value="0,0,0,255"/>
+                                    <property key="unit" value="-1"/>
+                                    <property key="referenceSystem" value="0"/>
+                                    <property key="autoresizeFlag" value="false"/>
+                                    <property key="id" value="TextSymbol"/>
+                                </xml-tag>
+                            </xml-tag>
+                        </xml-tag>
+                        <xml-tag>
+                            <property key="duplicateLabelsMode" value="2"/>
+                            <property key="placementMode" value="9"/>
+                            <property key="belowTheLine" value="false"/>
+                            <property key="aboveTheLine" value="false"/>
+                            <property key="onTheLine" value="false"/>
+                            <property key="pageOriented" value="false"/>
+                            <property key="locationAlongLine" value="0"/>
+                            <property key="fitInsidePolygon" value="false"/>
+                            <property key="className" value="org.gvsig.symbology.fmap.labeling.placements.PolygonPlacementConstraints"/>
+                            <property key="id" value="PlacementConstraints"/>
+                        </xml-tag>
+                        <xml-tag>
+                            <property key="className" value="com.iver.cit.gvsig.fmap.rendering.styling.labeling.ZoomConstraintsImpl"/>
+                            <property key="maxScale" value="-1"/>
+                            <property key="minScale" value="-1"/>
+                            <property key="mode" value="0"/>
+                            <property key="id" value="ZoomConstraints"/>
+                        </xml-tag>
+                    </xml-tag>
+                    <xml-tag>
+                        <property key="typeChild" value="linkProperties"/>
+                        <property key="extName"/>
+                        <property key="fieldName"/>
+                        <property key="typeLink" value="0"/>
+                    </xml-tag>
+                </xml-tag>
+            </xml-tag>
+        </xml-tag>
+        <xml-tag>
+            <property key="className" value="com.iver.cit.gvsig.fmap.MapContext"/>
+            <xml-tag>
+                <property key="className" value="com.iver.cit.gvsig.fmap.ViewPort"/>
+                <property key="dist1pixel" value="0.0"/>
+                <property key="dist3pixel" value="0.0"/>
+                <property key="distanceUnits" value="1"/>
+                <property key="mapUnits" value="1"/>
+                <property key="offsetX" value="0.0"/>
+                <property key="offsetY" value="0.0"/>
+                <property key="proj" value="EPSG:23030"/>
+                <property key="scale" value="0.0"/>
+                <property key="zoomFactor" value="1.0"/>
+                <xml-tag>
+                    <property key="className" value="com.iver.cit.gvsig.fmap.ExtentHistory"/>
+                    <property key="num" value="0"/>
+                    <property key="numrec" value="10"/>
+                </xml-tag>
+            </xml-tag>
+            <xml-tag>
+                <property key="className" value="com.iver.cit.gvsig.fmap.layers.FLayers"/>
+                <property key="active" value="false"/>
+                <property key="name"/>
+                <property key="minScale" value="-1.0"/>
+                <property key="maxScale" value="-1.0"/>
+                <property key="visible" value="true"/>
+                <property key="transparency" value="255"/>
+                <property key="isInTOC" value="true"/>
+                <property key="numLayers" value="0"/>
+                <property key="LayerNames" value=""/>
+            </xml-tag>
+        </xml-tag>
+    </xml-tag>
+    <xml-tag>
+        <property key="className" value="ProjectView"/>
+        <property key="comment"/>
+        <property key="creationDate" value="3/11/18 16:56"/>
+        <property key="name" value="Sin título - 1"/>
+        <property key="owner"/>
+        <property key="numViews" value="2"/>
+        <property key="mapOverView" value="true"/>
+        <xml-tag>
+            <property key="className" value="com.iver.cit.gvsig.fmap.MapContext"/>
+            <xml-tag>
+                <property key="className" value="com.iver.cit.gvsig.fmap.ViewPort"/>
+                <property key="backColor" value="255,255,255,255"/>
+                <property key="dist1pixel" value="0.0"/>
+                <property key="dist3pixel" value="0.0"/>
+                <property key="distanceUnits" value="1"/>
+                <property key="mapUnits" value="1"/>
+                <property key="offsetX" value="0.0"/>
+                <property key="offsetY" value="0.0"/>
+                <property key="proj" value="EPSG:23030"/>
+                <property key="scale" value="0.0"/>
+                <property key="zoomFactor" value="1.0"/>
+                <xml-tag>
+                    <property key="className" value="com.iver.cit.gvsig.fmap.ExtentHistory"/>
+                    <property key="num" value="0"/>
+                    <property key="numrec" value="10"/>
+                </xml-tag>
+            </xml-tag>
+            <xml-tag>
+                <property key="className" value="com.iver.cit.gvsig.fmap.layers.FLayers"/>
+                <property key="active" value="false"/>
+                <property key="name"/>
+                <property key="minScale" value="-1.0"/>
+                <property key="maxScale" value="-1.0"/>
+                <property key="visible" value="true"/>
+                <property key="transparency" value="255"/>
+                <property key="isInTOC" value="true"/>
+                <property key="numLayers" value="0"/>
+                <property key="LayerNames" value=""/>
+            </xml-tag>
+        </xml-tag>
+        <xml-tag>
+            <property key="className" value="com.iver.cit.gvsig.fmap.MapContext"/>
+            <xml-tag>
+                <property key="className" value="com.iver.cit.gvsig.fmap.ViewPort"/>
+                <property key="dist1pixel" value="0.0"/>
+                <property key="dist3pixel" value="0.0"/>
+                <property key="distanceUnits" value="1"/>
+                <property key="mapUnits" value="1"/>
+                <property key="offsetX" value="0.0"/>
+                <property key="offsetY" value="0.0"/>
+                <property key="proj" value="EPSG:23030"/>
+                <property key="scale" value="0.0"/>
+                <property key="zoomFactor" value="1.0"/>
+                <xml-tag>
+                    <property key="className" value="com.iver.cit.gvsig.fmap.ExtentHistory"/>
+                    <property key="num" value="0"/>
+                    <property key="numrec" value="10"/>
+                </xml-tag>
+            </xml-tag>
+            <xml-tag>
+                <property key="className" value="com.iver.cit.gvsig.fmap.layers.FLayers"/>
+                <property key="active" value="false"/>
+                <property key="name"/>
+                <property key="minScale" value="-1.0"/>
+                <property key="maxScale" value="-1.0"/>
+                <property key="visible" value="true"/>
+                <property key="transparency" value="255"/>
+                <property key="isInTOC" value="true"/>
+                <property key="numLayers" value="0"/>
+                <property key="LayerNames" value=""/>
+            </xml-tag>
+        </xml-tag>
+    </xml-tag>
+    <xml-tag>
+        <property key="className" value="ProjectTable"/>
+        <property key="comment"/>
+        <property key="creationDate" value="3/11/18 17:33"/>
+        <property key="name" value="Tabla de atributos: Andalucia"/>
+        <property key="owner"/>
+        <property key="numTables" value="0"/>
+        <property key="layerName" value="Andalucia"/>
+        <property key="viewName" value="Sin título - 0"/>
+        <property key="mapping" value="0 ,1 ,2"/>
+        <property key="aliases" value="CODIGO ,NOMBRE ,PROVINCIA"/>
+        <property key="columns" value="true"/>
+        <xml-tag>
+            <property key="className" value="com.iver.cit.gvsig.fmap.layers.SelectableDataSource"/>
+            <xml-tag>
+                <property key="className" value="com.iver.cit.gvsig.fmap.layers.SelectionSupport"/>
+                <property key="numBitSet" value="6"/>
+                <property key="0" value="12"/>
+                <property key="1" value="15"/>
+                <property key="2" value="18"/>
+                <property key="3" value="21"/>
+                <property key="4" value="24"/>
+                <property key="5" value="26"/>
+            </xml-tag>
+            <xml-tag>
+                <property key="name" value="table"/>
+                <property key="table-name" value="gdbms6462ef1f_166da38dbaa__8000"/>
+                <property key="table-alias" value="gdbms6462ef1f_166da38dbaa__8000"/>
+            </xml-tag>
+        </xml-tag>
+        <xml-tag>
+            <xml-tag>
+                <property key="width" value="75"/>
+            </xml-tag>
+            <xml-tag>
+                <property key="width" value="75"/>
+            </xml-tag>
+            <xml-tag>
+                <property key="width" value="75"/>
+            </xml-tag>
+        </xml-tag>
+    </xml-tag>
+    <xml-tag>
+        <property key="name" value="AndamiPersistence"/>
+        <property key="className" value="com.iver.cit.gvsig.project.Project"/>
+        <xml-tag>
+            <property key="name" value="ViewInfoProperties"/>
+            <property key="X" value="-1"/>
+            <property key="Y" value="-1"/>
+            <property key="Width" value="430"/>
+            <property key="Height" value="594"/>
+            <property key="isVisible" value="true"/>
+            <property key="isResizable" value="false"/>
+            <property key="isMaximizable" value="true"/>
+            <property key="isModal" value="false"/>
+            <property key="isModeless" value="false"/>
+            <property key="isClosed" value="false"/>
+            <property key="isNotClosable" value="false"/>
+            <property key="AdditionalInfo"/>
+            <property key="className" value="com.iver.cit.gvsig.project.document.gui.ProjectWindow"/>
+            <property key="zPosition" value="2"/>
+        </xml-tag>
+        <xml-tag>
+            <property key="name" value="ViewInfoProperties"/>
+            <property key="X" value="0"/>
+            <property key="Y" value="0"/>
+            <property key="Width" value="1366"/>
+            <property key="Height" value="618"/>
+            <property key="isVisible" value="true"/>
+            <property key="isResizable" value="true"/>
+            <property key="isMaximizable" value="true"/>
+            <property key="isModal" value="false"/>
+            <property key="isModeless" value="false"/>
+            <property key="isClosed" value="false"/>
+            <property key="isNotClosable" value="false"/>
+            <property key="AdditionalInfo"/>
+            <property key="isMaximized" value="true"/>
+            <property key="normalX" value="702"/>
+            <property key="normalY" value="78"/>
+            <property key="normalWidth" value="500"/>
+            <property key="normalHeight" value="300"/>
+            <property key="documentType" value="ProjectView"/>
+            <property key="documentName" value="Sin título - 0"/>
+            <property key="zPosition" value="1"/>
+            <xml-tag>
+                <property key="name" value="windowData"/>
+                <property key="GraphicLocator.isPalette" value="false"/>
+                <property key="GraphicLocator.Height" value="278"/>
+                <property key="MainDivider.Y" value="0"/>
+                <property key="MainDivider.X" value="0"/>
+                <property key="MapControl.Height" value="590"/>
+                <property key="TOCDivider.Location" value="306"/>
+                <property key="TOC.Height" value="305"/>
+                <property key="TOCDivider.Y" value="1"/>
+                <property key="TOCDivider.X" value="1"/>
+                <property key="MainDivider.Location" value="153"/>
+                <property key="MainDivider.Width" value="1350"/>
+                <property key="MainWindow.X" value="0"/>
+                <property key="TOCDivider.Height" value="590"/>
+                <property key="TOC.Width" value="150"/>
+                <property key="MainWindow.Width" value="1350"/>
+                <property key="TOCDivider.Width" value="152"/>
+                <property key="MainWindow.Y" value="0"/>
+                <property key="MapControl.Width" value="1191"/>
+                <property key="GraphicLocator.Width" value="150"/>
+                <property key="MainWindow.Height" value="592"/>
+                <property key="MainDivider.Height" value="592"/>
+            </xml-tag>
+        </xml-tag>
+    </xml-tag>
+</xml-tag>

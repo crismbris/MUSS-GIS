@@ -1,0 +1,15 @@
+Puerto: Leaflet http://muss-sig.ddns.net:60080/visualizador.html
+
+GeoServer http://muss-sig.ddns.net:60081/geoserver/web/
+
+host
+
+http://muss-sig.ddns.net
+
+60082 - 5432 POSTGIS
+
+60081 - 9090 GeoServer (geoserver, pass…)
+
+60080 - 7070 Leaflet
+
+62181 - 2181 HBase

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<RasterMetaFile>
+<FLyrGeoRaster>
+	<Extent>
+			<X>433962.4366078282</X>
+			<Y>4478509.1955954535</Y>
+			<RotationX>0.0</RotationX>
+			<RotationY>0.0</RotationY>
+			<PixelSizeX>15.0</PixelSizeX>
+			<PixelSizeY>-15.0</PixelSizeY>
+			<Width>38340.0</Width>
+			<Height>28830.0</Height>
+	</Extent>
+	<Dimension>
+			<ImagePxWidth>2556.0</ImagePxWidth>
+			<ImagePxHeight>1922.0</ImagePxHeight>
+	</Dimension>
+</FLyrGeoRaster>
+<ColorInterpretation>
+	<BandCount>3</BandCount>
+	<Band>Blue</Band>
+	<Band>Green</Band>
+	<Band>Red</Band>
+</ColorInterpretation>
+</RasterMetaFile>

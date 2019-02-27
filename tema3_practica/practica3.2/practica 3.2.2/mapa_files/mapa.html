@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8" />
+<head>
+	<title>Visualizador Demo</title>
+
+	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.2/dist/leaflet.css" />
+	<link rel="stylesheet" href="css/l.geosearch.css" />
+	<link rel="stylesheet" href="css/L.Control.MousePosition.css" />
+
+	<script src="https://unpkg.com/leaflet@1.0.2/dist/leaflet.js"></script>
+	<script src="js/Control.MiniMap.js" ></script>
+	<script src="js/l.geosearch.provider.esri.js"></script>
+	<script src="js/L.Control.MousePosition.js"></script>
+	<script src="js/l.control.geosearch.js"></script>
+
+    <script src="js/leaflet-routing-machine.js"></script>
+	<link rel="stylesheet" href="css/leaflet-routing-machine.css"> 
+
+	<script src="js/l.control.geosearch.js"></script>
+		<script src="js/l.geosearch.provider.esri.js"></script>
+		<link rel="stylesheet" href="css/l.geosearch.css" />
+	
+ <style>
+  #map { 
+  widh: 50px;
+  height: 600px; }
+ </style>
+ 
+ </head>
+  <body>
+   <div id="map"></div>
+ <script>
+ 	
+	var map = L.map('map').setView([40, -2.5], 7);
+ 
+	var capaBase1 = L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://cloudmade.com">CloudMade</a>',
+    	maxZoom: 18
+	}).addTo(map);
+
+	var capaBase2 = L.tileLayer.wms("http://www.ign.es/wms-inspire/mapa-raster", {layers:'fondo',format:'image/png', transparent:true,attribution: "IGNBaseTodo-nofondo"});
+
+	L.control.scale().addTo(map);
+	L.marker([40.405165, -3.835787], {draggable: true}).addTo(map).bindPopup("Universidad Politécnica de Madrid, Av. de Montepríncipe, 28223 Madrid, España");;
+	//Capa Overlay
+	var capa3 = L.tileLayer.wms("http://www.ign.es/wms-inspire/ign-base", {layers: 
+		'IGNBaseTodo',format:'image/png', transparent: 
+			true,attribution: "IGNBaseTodo-nofondo"});
+	var capa4 = L.tileLayer.wms("http://mapadefosas.mjusticia.es/geoserver/wms", {layers: 
+		'INTERVENIDA',format:'image/png', transparent: 
+			true,attribution: "IGNBaseTodo-nofondo"});
+	var capa5 = L.tileLayer.wms("http://www.ign.es/wms-inspire/geofisica", {layers: 
+		'VigilanciaVolcanica',format:'image/png', transparent: 
+			true});
+	var capa6 = L.tileLayer.wms("http://www.opengis.uab.es/cgi-bin/europarc/MiraMon5_0.cgi", {layers: 
+		'nacional',format:'image/png', transparent: 
+			true});
+
+
+
+
+	var overlays = {"Callejero": capa3, "Fosas Guerra Civil": capa4,"Estaciones de vigilancia volcanica": capa5,"Parques Nacionales": capa6};	
+	var baseLayers = {"Capa OpenStreetMap": capaBase1,"Capa IGN":capaBase2 };
+	L.control.layers(baseLayers,overlays).addTo(map);
+
+	//Minimap
+			var osmUrl='http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
+			console.log("ismul bien");
+			var osm2 = new L.TileLayer(osmUrl, {minZoom: 0, maxZoom: 13});
+			console.log("osm2");
+			var miniMap = new L.Control.MiniMap(osm2, { toggleDisplay: true }).addTo(map);
+			console.log("minimap");
+	
+
+	//Search
+			 new L.Control.GeoSearch({
+            provider: new L.GeoSearch.Provider.Esri()
+        }).addTo(map);
+
+	        
+	 //mouse position
+	 		var MousePosition = new L.Control.MousePosition().addTo(map);
+
+	//var control
+	
+	var control = L.Routing.control({
+		waypoints: [
+			L.latLng(40.3934285, -3.757512399999996),
+			L.latLng(43.6580789, -7.806885100000045)
+		],
+	    routeWhileDragging: true,
+	    reverseWaypoints: true,
+	    showAlternatives: true,
+	    altLineOptions: {
+	        styles: [
+	            {color: 'black', opacity: 0.15, weight: 9},
+	            {color: 'white', opacity: 0.8, weight: 6},
+	            {color: 'blue', opacity: 0.5, weight: 2}
+	        ]
+	    }
+	}).addTo(map);
+
+
+	L.Routing.errorControl(control).addTo(map);
+
+	L.Routing.Formatter = L.Class.extend({
+		options: {
+			language: 'sp'
+		}
+	});
+
+
+ </script>
+ </body> 
+ </html>

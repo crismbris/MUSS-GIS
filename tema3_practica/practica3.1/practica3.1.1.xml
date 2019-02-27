@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<captura>
+<estacion>
+	<nombre>Cerro</nombre>
+	<coordenaX>452.789</coordenaX>
+	<coordenaY>4.458.962</coordenaY>
+	<provincia>Madrid</provincia>
+</estacion>
+<fecha>
+	<dia>7</dia>
+	<mes>7</mes>
+	<año>2006</año>
+	<hora>8:00</hora>
+</fecha>
+<datos>
+	<temperatura>21</temperatura>
+	<humedad>87</humedad>
+	<dir_viento>SO</dir_viento>
+	<vel_viento>6</vel_viento>
+</datos>
+</captura>

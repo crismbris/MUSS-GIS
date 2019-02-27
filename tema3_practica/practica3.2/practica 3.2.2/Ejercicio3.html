@@ -1,0 +1,43 @@
+<html>
+<head>
+   <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.css" />
+   <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.ie.css" />
+   <script src="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.js"></script>
+	<script src="Control.MiniMap.js" ></script>
+	<script src="L.Control.MousePosition.js" ></script>
+	<script src "l.control.geosearch.js" ></script>
+	</head>	
+<body>	
+   <div style="width:100%; height:100%" id="map"></div>
+   <script>
+      var map = L.map('map',{crs: L.CRS.EPSG4326}).setView([40, -2.5], 7);
+        //Capas base 
+		var capa1 = L.tileLayer.wms("http://vmap0.tiles.osgeo.org/wms/vmap0",{layers: 'basic', format: 'image/jpeg', 
+			transparent: true, attribution:"OsGEO"});
+		capa1.addTo(map);	
+		
+		var capa2=L.tileLayer.wms("http://www.ign.es/wms-inspire/pnoa-ma",{layers:'OI.OrthoimageCoverage', format: 
+		'image/jpeg',transparent: true, attribution: "PNOA"});
+
+		//Capa Overlay
+		var capa3 = L.tileLayer.wms("http://www.ign.es/wms-inspire/ign-base", {layers: 
+		'IGNBaseTodo-nofondo,IGNBaseOrto,IGNBaseTodo-gris,IGNBaseTodo',format:'image/png', transparent: 
+			true,attribution: "Carreteras"});
+
+		//contoler de capas
+		var overlays = {"Carreteras": capa3};			
+		var baseLayers = {"OSGEO": capa1,"PNOA": capa2};
+		L.control.layers(baseLayers,overlays).addTo(map);
+
+
+		//Minimap
+		var osm2 = new L.TileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {minZoom: 0, maxZoom: 13});
+		var miniMap = new L.Control.MiniMap(osm2, { toggleDisplay: true }).addTo(map);
+		//Mouse position
+		var mousePosition = new L.Control.MousePosition().addTo(map);
+		//NavBar
+		new L.Control.GeoSearch({provider: new L.GeoSearch.Provider.Google({region: ''})}).addTo(map);
+
+   </script>
+</body> 
+</html>

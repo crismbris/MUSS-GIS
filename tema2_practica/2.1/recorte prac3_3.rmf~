@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<RasterMetaFile>
+<Statistics>
+	<BandCount>1</BandCount>
+	<Band>
+	</Band>
+</Statistics>
+<ColorInterpretation>
+	<BandCount>3</BandCount>
+	<Band>Red</Band>
+	<Band>Undefined</Band>
+	<Band>Blue</Band>
+</ColorInterpretation>
+</RasterMetaFile>
